@@ -1,0 +1,1609 @@
+Geocoding places... This may take a while.
+Geocoded Acalanes Ridge, CA (simplified): 37.9074665, -122.0779434
+Geocoded Acampo, CA (simplified): 38.1746398, -121.2785588
+Geocoded Acton, CA (simplified): 34.48074149999999, -118.1868378638664
+Geocoded Adelanto city, CA: 34.57253155, -117.41112674059673
+Geocoded Adin, CA (simplified): 41.1948376, -120.9442258
+Geocoded Agoura Hills city, CA: 34.1569301, -118.75723420237128
+Geocoded Agua Dulce, CA (simplified): 34.4963817, -118.3256348
+Geocoded Aguanga, CA (simplified): 33.4555951, -116.85944354462498
+Geocoded Ahwahnee, CA (simplified): 37.3677052, -119.7254092
+Geocoded Airport, CA (simplified): 49.903833649999996, -97.2384859909937
+Geocoded Alameda city, CA: 34.24060669421153, -116.84733742972615
+Geocoded Alamo CDP, CA: 33.60356965, -112.27823335
+Geocoded Albany city, CA: 37.89567925, -122.3093190900826
+Geocoded Albion, CA (simplified): 39.2235117, -123.7686251
+Geocoded Alderpoint, CA (simplified): 40.1760492, -123.6112159
+Geocoded Alhambra city, CA: 34.0925094, -118.1272924
+Geocoded Alhambra Valley, CA (simplified): 37.9676664, -122.1285801
+Geocoded Aliso Viejo city, CA: 33.56802635, -117.72760877024088
+Geocoded Alleghany, CA (simplified): 39.4709464, -120.8435264
+Geocoded Allendale, CA (simplified): 53.5022975, -113.504951
+Geocoded Allensworth, CA (simplified): 35.8635518, -119.3905252
+Geocoded Almanor, CA (simplified): 40.2173857, -121.1741296
+Geocoded Alondra Park, CA (simplified): 33.890134, -118.33513898321085
+Geocoded Alpaugh, CA (simplified): 35.8877316, -119.4873422
+Geocoded Alpine, CA (simplified): 38.5893934, -119.8345013
+Geocoded Alpine Village, CA (simplified): 38.787175500000004, -119.80270712982644
+Geocoded Alta, CA (simplified): 55.001251, -115.002136
+Geocoded Altadena, CA (simplified): 34.1928193, -118.137466344567
+Geocoded Alta Sierra, CA (simplified): 39.120723999999996, -121.05683438607284
+Geocoded Alta Sierra, CA (simplified): 39.120723999999996, -121.05683438607284
+Geocoded Alto, CA (simplified): 37.9043701, -122.5255306
+Geocoded Alturas city, CA: 41.4835415, -120.5437484
+Geocoded Alum Rock, CA (simplified): 37.369642, -121.82436559447004
+Geocoded Amador City city, CA: 38.4193553, -120.824103
+Warning: No coordinates found for Amador Pines CDP, CA or Amador Pines, CA
+Geocoded American Canyon city, CA: 38.1785248, -122.255183
+Geocoded Amesti, CA (simplified): 36.956346499999995, -121.78393809156645
+Geocoded Anaheim city, CA: 33.803204, -117.88568940769623
+Geocoded Anchor Bay, CA (simplified): 38.8026883, -123.5777894
+Geocoded Anderson city, CA: 40.4478277, -122.3003277
+Geocoded Angels city, CA: 34.0536909, -118.242766
+Geocoded Angwin, CA (simplified): 38.5783555, -122.44865154545454
+Geocoded Antelope, CA (simplified): 38.7082357, -121.3299513
+Geocoded Antioch city, CA: 38.01631, -121.815234
+Geocoded Anza, CA (simplified): 33.5763917, -116.69787535017275
+Geocoded Apple Valley town, CA: 34.5244137, -117.2143050421875
+Geocoded Aptos, CA (simplified): 36.9941295, -121.89033677231834
+Geocoded Aptos Hills-Larkin Valley, CA (simplified): 36.966775, -121.846761
+Geocoded Arbuckle, CA (simplified): 39.016874900000005, -122.06245996879375
+Geocoded Arcadia city, CA: 34.13732745, -118.03859893333951
+Geocoded Arcata city, CA: 40.8668838, -124.09759245000001
+Geocoded Arden-Arcade, CA (simplified): 38.6039613, -121.38300352999352
+Geocoded Armona, CA (simplified): 36.315894, -119.7024315
+Geocoded Arnold, CA (simplified): 38.242044, -120.3551608032787
+Geocoded Aromas, CA (simplified): 36.87639955, -121.64300356090132
+Geocoded Arroyo Grande, CA (simplified): 35.1235374, -120.5785796
+Geocoded Artesia city, CA: 33.860044, -118.0799595
+Geocoded Artois, CA (simplified): 39.6196036, -122.1938726
+Geocoded Arvin city, CA: 35.2105179, -118.8328755
+Geocoded Ashland CDP, CA: 33.39539340160896, -86.6395025220311
+Geocoded Aspen Springs, CA (simplified): 37.5546544, -118.7131817
+Geocoded Atascadero city, CA: 35.4821948, -120.666281
+Geocoded Atherton town, CA: 53.5249679, -2.4905799
+Geocoded Atwater city, CA: 37.3474396, -120.6085284
+Geocoded Auberry, CA (simplified): 37.088535, -119.49802643609326
+Geocoded Auburn city, CA: 38.8976011, -121.0741664
+Geocoded Auburn Lake Trails, CA (simplified): 38.9143434, -120.9524408
+Geocoded August, CA (simplified): 37.979918999999995, -121.2621572453189
+Geocoded Avalon city, CA: 33.3442361, -118.3244154
+Geocoded Avenal city, CA: 36.0077333, -120.1226382
+Geocoded Avery, CA (simplified): 38.195551, -120.38188443229166
+Geocoded Avila Beach, CA (simplified): 35.1799752, -120.731841
+Geocoded Avocado Heights, CA (simplified): 34.0406759, -117.99724788576843
+Geocoded Azusa city, CA: 34.1354063, -117.90557098765467
+Geocoded Baker, CA (simplified): 35.275458400000005, -116.06942944762295
+Geocoded Bakersfield city, CA: 35.3736738, -119.0204742854196
+Geocoded Bakersfield Country Club, CA (simplified): 35.39172155, -118.93681089689251
+Geocoded Baldwin Park city, CA: 34.085459, -117.959671
+Geocoded Ballard, CA (simplified): 34.6358193, -120.1132029
+Geocoded Ballico, CA (simplified): 37.4543809, -120.7060337
+Geocoded Bangor, CA (simplified): 50.8068178, -102.3410638
+Geocoded Banning city, CA: 33.7938421, -118.26211161216523
+Geocoded Barstow city, CA: 34.887825250000006, -117.048524596023
+Geocoded Bass Lake, CA (simplified): 37.31081175, -119.54500276225633
+Geocoded Bay Point, CA (simplified): 38.033114499999996, -121.97930381529403
+Geocoded Bayview, CA (simplified): 43.7667987, -79.3873787
+Geocoded Bayview, CA (simplified): 43.7667987, -79.3873787
+Geocoded Baywood Park, CA (simplified): 53.56547245, -113.54795400135245
+Geocoded Beale AFB, CA (simplified): 39.122939, -121.38007965949092
+Geocoded Bear Creek, CA (simplified): 60.79364635, -137.66579117425528
+Geocoded Bear Valley, CA (simplified): 37.5688237, -120.1193489
+Geocoded Bear Valley, CA (simplified): 37.5688237, -120.1193489
+Geocoded Bear Valley Springs, CA (simplified): 35.1800545, -118.62884709545455
+Geocoded Beaumont city, CA: 33.92989495, -116.97513409969724
+Geocoded Beckwourth, CA (simplified): 39.851645500000004, -120.4064368067227
+Geocoded Belden CDP, CA: 39.4461252864352, -76.6395302796266
+Geocoded Bell city, CA: 37.0236611, -89.8198098
+Geocoded Bella Vista, CA (simplified): 40.6407071, -122.232503
+Geocoded Bell Canyon, CA (simplified): 34.2063463, -118.6858253
+Geocoded Bellflower city, CA: 33.883545299999994, -118.12195877301458
+Geocoded Bell Gardens city, CA: 33.9674209, -118.150019
+Geocoded Belmont city, CA: 37.5255342, -122.2662895
+Geocoded Belvedere city, CA: 37.8663951, -122.462699
+Geocoded Benbow, CA (simplified): 40.068479, -123.7844721
+Geocoded Bend CDP, CA: 34.0795452, -85.87976247321657
+Geocoded Benicia city, CA: 38.0588251, -122.15479722979569
+Geocoded Ben Lomond, CA (simplified): 37.0891143, -122.086352
+Geocoded Benton, CA (simplified): 37.8184334, -118.4769348
+Geocoded Benton Park, CA (simplified): 43.4451786, -80.49155669276345
+Geocoded Berkeley city, CA: 37.86979905, -122.26968554909894
+Geocoded Bermuda Dunes, CA (simplified): 33.7441555, -116.28449354478941
+Geocoded Berry Creek, CA (simplified): 39.6350312, -121.390961
+Geocoded Bertsch-Oceanview, CA (simplified): 41.7530127, -124.16045630206715
+Geocoded Bethel Island, CA (simplified): 38.029033999999996, -121.64000881834863
+Geocoded Beverly Hills city, CA: 34.0732882, -118.39894152454659
+Geocoded Bieber, CA (simplified): 41.1212775, -121.1441396
+Geocoded Big Bear City, CA (simplified): 34.2505442, -116.79144448747292
+Geocoded Big Bear Lake city, CA: 34.253293, -116.93220968731495
+Geocoded Big Bend, CA (simplified): 41.01040355, -121.92235968372319
+Geocoded Big Creek, CA (simplified): 37.2049456, -119.245956
+Geocoded Biggs city, CA: 39.4138719, -121.710669
+Geocoded Big Lagoon, CA (simplified): 41.1604014, -124.1336821
+Geocoded Big Pine, CA (simplified): 37.1649125, -118.29632272544802
+Geocoded Big River, CA (simplified): 53.833333, -107.033333
+Geocoded Biola, CA (simplified): 36.800467499999996, -120.02009155128206
+Geocoded Bishop city, CA: 43.62805575, -79.39799687484938
+Geocoded Blackhawk, CA (simplified): 37.8189264, -121.91651329098492
+Geocoded Blacklake, CA (simplified): 37.28222207225422, -76.76669947912305
+Geocoded Black Point-Green Point, CA (simplified): 38.1127849, -122.5284498
+Geocoded Blairsden, CA (simplified): 39.7753335, -120.60878046922966
+Geocoded Bloomfield, CA (simplified): 38.3136285, -122.8513352
+Geocoded Bloomington, CA (simplified): 34.07029, -117.395879
+Geocoded Blue Lake, CA (simplified): 40.882907, -123.983949
+Geocoded Bluewater, CA (simplified): 34.1813647, -114.247802
+Geocoded Blythe city, CA: 33.6128811, -114.59726414977902
+Geocoded Bodega, CA (simplified): 38.34585, -122.9737338
+Geocoded Bodega Bay, CA (simplified): 38.3221437, -123.01547043531973
+Geocoded Bodfish, CA (simplified): 35.5688891, -118.48118860794338
+Geocoded Bolinas, CA (simplified): 37.9077975, -122.69519568798077
+Geocoded Bombay Beach, CA (simplified): 33.3560147, -115.7266353729446
+Geocoded Bonadelle Ranchos, CA (simplified): 36.9634565, -119.90652420409958
+Geocoded Bonita, CA (simplified): 32.6649141, -117.01703339579691
+Geocoded Bonny Doon, CA (simplified): 37.0416156, -122.1505224
+Geocoded Bonsall, CA (simplified): 33.276257099999995, -117.19963975271132
+Geocoded Boonville, CA (simplified): 39.0091667, -123.3661111
+Geocoded Bootjack, CA (simplified): 37.46385, -119.89541697558172
+Geocoded Boron, CA (simplified): 35.01992715, -117.66791822379915
+Geocoded Boronda, CA (simplified): 36.6953687, -121.67497937557098
+Geocoded Borrego Springs, CA (simplified): 33.254858, -116.3569486832774
+Geocoded Bostonia, CA (simplified): 32.8075509, -116.9364153
+Geocoded Boulder Creek, CA (simplified): 37.1260578, -122.1221869
+Geocoded Boulevard CDP, CA: 33.47774402417667, -82.13441273422535
+Geocoded Bowles, CA (simplified): 36.609505, -119.75259045583402
+Geocoded Boyes Hot Springs, CA (simplified): 38.3127545, -122.4868901485955
+Geocoded Bradbury city, CA: 34.1455624, -117.9706204
+Geocoded Bradley, CA (simplified): 35.86284405, -120.80371843318002
+Geocoded Brawley city, CA: 32.9783352, -115.5351287
+Geocoded Brea city, CA: 33.9147915, -117.90165103365045
+Geocoded Brentwood city, CA: 37.9810116, -121.73353618349635
+Geocoded Bret Harte, CA (simplified): 37.601998050000006, -120.99951558785025
+Geocoded Bridgeport, CA (simplified): 38.255757, -119.2312665
+Geocoded Brisbane city, CA: 37.6867948, -122.4024635
+Geocoded Broadmoor, CA (simplified): 37.6911562, -122.48243112726111
+Geocoded Brookdale, CA (simplified): 37.1079169, -122.1087563
+Geocoded Brooks, CA (simplified): 50.571027, -111.893005
+Geocoded Brooktrails, CA (simplified): 39.4437736, -123.3852887
+Geocoded Buckhorn, CA (simplified): 34.4008304, -118.8156499
+Geocoded Buck Meadows, CA (simplified): 37.8127044, -120.0643518
+Geocoded Bucks Lake, CA (simplified): 39.8796775, -121.14860970806625
+Geocoded Buellton, CA (simplified): 34.6134727, -120.193669
+Geocoded Buena Park city, CA: 33.84389505, -118.00981163088613
+Geocoded Buena Vista, CA (simplified): 37.8065169, -122.4207744
+Geocoded Burbank city, CA: 34.1816667, -118.3072222
+Geocoded Burbank CDP, CA: 30.587858715495837, -88.20448138831604
+Geocoded Burlingame city, CA: 37.57978535, -122.35064951620328
+Geocoded Burney, CA (simplified): 40.888414499999996, -121.67278262034247
+Geocoded Burnt Ranch, CA (simplified): 40.8090268, -123.4742085
+Warning: No coordinates found for Butte Creek Canyon CDP, CA or Butte Creek Canyon, CA
+Geocoded Butte Meadows, CA (simplified): 40.0812707, -121.5510858
+Geocoded Butte Valley, CA (simplified): 35.94568086441878, -117.05848433477449
+Geocoded Buttonwillow, CA (simplified): 35.418306, -119.43018293665756
+Geocoded Byron, CA (simplified): 37.874063, -121.63465739329897
+Geocoded Bystrom, CA (simplified): 37.6207642, -120.9857665
+Geocoded Cabazon, CA (simplified): 33.9090305, -116.77953445075823
+Geocoded Calabasas city, CA: 34.15819995716525, -118.63888634066784
+Geocoded Calexico city, CA: 32.67059475, -115.49319809907297
+Geocoded California City city, CA: 35.1259261, -117.959868
+Geocoded California Hot Springs, CA (simplified): 35.8802282, -118.6736995
+Geocoded California Pines, CA (simplified): 41.4098922, -120.6791267
+Geocoded California Polytechnic State University, CA (simplified): 35.3074623, -120.66464833678835
+Geocoded Calimesa city, CA: 34.0035144, -117.0587006
+Geocoded Calipatria city, CA: 33.126473849999996, -115.51608834411437
+Geocoded Calistoga city, CA: 38.5781509, -122.5782598615063
+Geocoded Callender, CA (simplified): 35.0530319, -120.5962816
+Geocoded Calpella, CA (simplified): 39.2336932, -123.202672
+Geocoded Calpine, CA (simplified): 39.6662911, -120.4396558
+Geocoded Calwa, CA (simplified): 36.7089786, -119.7573061
+Warning: No coordinates found for Camanche North Shore CDP, CA or Camanche North Shore, CA
+Geocoded Camanche Village, CA (simplified): 38.2699164, -120.9732743
+Geocoded Camarillo city, CA: 34.2228071, -119.0516609
+Geocoded Cambria, CA (simplified): 49.1439636, -103.4043836
+Geocoded Cambrian Park, CA (simplified): 37.2564151, -121.93132499789144
+Geocoded Cameron Park, CA (simplified): 38.682001850000006, -120.98514424518402
+Geocoded Camino, CA (simplified): 38.7382366, -120.6749302
+Geocoded Camino Tassajara, CA (simplified): 37.790082350000006, -121.88550429807958
+Geocoded Campbell city, CA: 50.001093, -125.24615601872955
+Geocoded Camp Nelson, CA (simplified): 36.1428893, -118.6100544
+Geocoded Campo, CA (simplified): 32.6526051, -116.47164942902933
+Geocoded Camp Pendleton Mainside, CA (simplified): 33.3219457, -117.31519539935532
+Geocoded Camp Pendleton South, CA (simplified): 33.2317539, -117.38846268262833
+Geocoded Camptonville, CA (simplified): 39.4518363, -121.0485656
+Geocoded Canby, CA (simplified): 41.4437857, -120.8702518
+Geocoded Cantua Creek, CA (simplified): 36.5011795, -120.31611302759792
+Geocoded Canyondam, CA (simplified): 40.169366499999995, -121.07642874956673
+Geocoded Canyon Lake, CA (simplified): 33.6836539, -117.262615
+Geocoded Capitola city, CA: 36.9755061, -121.9535708
+Geocoded Caribou, CA (simplified): 40.077047, -121.1618334906542
+Geocoded Carlsbad city, CA: 33.10539985, -117.2697288167134
+Geocoded Carmel-by-the-Sea, CA (simplified): 36.5552656, -121.923278
+Geocoded Carmel Valley Village, CA (simplified): 36.48290975, -121.71437728702983
+Geocoded Carmet, CA (simplified): 38.3743603, -123.076391
+Geocoded Carmichael, CA (simplified): 49.9172707, -108.6546946
+Geocoded Carnelian Bay, CA (simplified): 39.2270008, -120.081236
+Geocoded Carpinteria city, CA: 34.3903197, -119.506879
+Geocoded Carrick, CA (simplified): 41.447329499999995, -122.36351239513424
+Geocoded Carson city, CA: 33.90484150163169, -117.53256801839926
+Geocoded Cartago, CA (simplified): 36.31599815, -118.02574462113665
+Geocoded Caruthers, CA (simplified): 36.539913999999996, -119.8450189373611
+Geocoded Casa Conejo, CA (simplified): 34.18483095, -118.94422034986565
+Geocoded Casa de Oro-Mount Helix, CA (simplified): 32.76577355, -116.96376978099505
+Geocoded Casa Loma, CA (simplified): 43.6781015, -79.4094158929368
+Geocoded Casmalia, CA (simplified): 34.8380355, -120.5312785
+Geocoded Caspar, CA (simplified): 39.363505, -123.815849
+Geocoded Cassel, CA (simplified): 40.9190499, -121.54776
+Geocoded Castaic, CA (simplified): 34.4826899, -118.6307097
+Geocoded Castella, CA (simplified): 41.1384854, -122.3177877
+Geocoded Castle Hill, CA (simplified): 37.87042565, -122.05653889857408
+Geocoded Castro Valley, CA (simplified): 37.71360595, -122.07156581367964
+Geocoded Castroville, CA (simplified): 36.7657904, -121.758005
+Geocoded Cathedral City city, CA: 33.7810031, -116.464076
+Geocoded Catheys Valley, CA (simplified): 37.4324391, -120.0979551
+Geocoded Cayucos, CA (simplified): 35.4427512, -120.892125
+Geocoded Cazadero, CA (simplified): 38.5334394, -123.08535
+Geocoded Cedar Flat, CA (simplified): 39.2099712, -120.090592
+Geocoded Cedar Ridge, CA (simplified): 39.1987834, -121.0210585
+Geocoded Cedar Slope, CA (simplified): 36.1452233, -118.5784223
+Geocoded Cedarville, CA (simplified): 41.5290606, -120.173278
+Geocoded Centerville, CA (simplified): 36.733802, -119.4975895
+Geocoded Centerville, CA (simplified): 36.733802, -119.4975895
+Geocoded Ceres city, CA: 37.591878449999996, -120.9549802695594
+Geocoded Cerritos city, CA: 33.8663076, -118.06525766512684
+Geocoded Chalfant, CA (simplified): 37.5297138, -118.3689239
+Geocoded Challenge-Brownsville, CA (simplified): 39.4614905, -121.27432465517242
+Geocoded Channel Islands Beach, CA (simplified): 34.167655749999994, -119.23063984613759
+Geocoded Charleston View, CA (simplified): 35.9722805, -115.8967273
+Geocoded Charter Oak CDP, CA: 33.62429627662397, -112.2810611615832
+Geocoded Cherokee, CA (simplified): 37.9815912, -120.2476889
+Geocoded Cherokee Strip, CA (simplified): 35.4671811, -119.2606647
+Geocoded Cherryland, CA (simplified): 37.677406950000005, -122.10499056578016
+Geocoded Cherry Valley, CA (simplified): 33.9715415, -116.96658671181893
+Geocoded Chester, CA (simplified): 44.5413322, -64.2411853
+Geocoded Chico city, CA: 39.72888465, -121.83808456536607
+Geocoded Chilcoot-Vinton, CA (simplified): 39.8087695, -120.1428762270626
+Geocoded China Lake Acres, CA (simplified): 35.6390656, -117.76541687848177
+Geocoded Chinese Camp, CA (simplified): 37.869187749999995, -120.44413921559646
+Geocoded Chino city, CA: 34.029319349999994, -117.68633499127239
+Geocoded Chino Hills city, CA: 33.998453999999995, -117.73055355621278
+Geocoded Choctaw Valley, CA (simplified): 34.290554005881475, -118.6840681575278
+Geocoded Chowchilla city, CA: 37.1227219, -120.2596198
+Geocoded Chualar, CA (simplified): 36.5714655, -121.51240155264804
+Geocoded Chula Vista city, CA: 32.641304000000005, -117.08504203500593
+Geocoded Citrus, CA (simplified): 34.116069499999995, -117.89480702241568
+Geocoded Citrus Heights city, CA: 38.68258675, -121.29690834393745
+Geocoded Claremont city, CA: 34.096051599999996, -117.71597414780317
+Geocoded Clarksburg, CA (simplified): 44.5487289, -80.4657729
+Geocoded Clay, CA (simplified): 38.3360244, -121.15939
+Geocoded Clayton city, CA: 37.94240955, -121.93728034800387
+Geocoded Clear Creek, CA (simplified): 63.783333, -137.3
+Geocoded Clearlake city, CA: 38.96140335, -122.64931514711975
+Geocoded Clearlake Oaks, CA (simplified): 39.017434, -122.65152068032447
+Geocoded Clearlake Riviera, CA (simplified): 38.9540649, -122.7208217
+Geocoded Cleone, CA (simplified): 39.4898875, -123.785571
+Geocoded Clio, CA (simplified): 39.7495505, -120.56507863621441
+Geocoded Clipper Mills, CA (simplified): 39.5326673, -121.1574587
+Geocoded Cloverdale city, CA: 49.11508985, -122.74880705742859
+Geocoded Clovis city, CA: 36.820162249999996, -119.63923814810065
+Geocoded Clyde, CA (simplified): 54.1463324, -113.6349041
+Geocoded Coachella city, CA: 33.67950585, -116.17629559667037
+Geocoded Coalinga city, CA: 36.1395459, -120.361969
+Geocoded Coarsegold, CA (simplified): 37.2621687, -119.700983
+Geocoded Cobb, CA (simplified): 38.8221258, -122.723045
+Geocoded Coffee Creek, CA (simplified): 62.9132692, -139.0860665
+Geocoded Cohasset, CA (simplified): 39.9254385, -121.7310898
+Geocoded Cold Springs, CA (simplified): 44.055262, -78.2126328
+Geocoded Cold Springs, CA (simplified): 44.055262, -78.2126328
+Geocoded Coleville, CA (simplified): 38.5662988, -119.507111
+Geocoded Colfax city, CA: 34.1449099, -118.38765534999999
+Geocoded College City, CA (simplified): 39.0057303, -122.0094129
+Geocoded Collierville, CA (simplified): 38.2146386, -121.2688365
+Geocoded Colma town, CA: 37.6766821, -122.459603
+Geocoded Coloma, CA (simplified): 38.7999014, -120.890216
+Geocoded Colton city, CA: 34.06258875, -117.32094157079108
+Geocoded Columbia CDP, CA: 33.47774402417667, -82.13441273422535
+Geocoded Colusa city, CA: 39.2017807, -122.0212107042413
+Geocoded Commerce city, CA: 34.0008467, -118.1556261
+Geocoded Comptche, CA (simplified): 39.2648954, -123.5911224
+Geocoded Compton city, CA: 33.89473235, -118.22470181563173
+Geocoded Concord city, CA: 49.193897500000006, -122.848893294442
+Geocoded Concow, CA (simplified): 39.74843695, -121.52893880547495
+Geocoded Contra Costa Centre, CA (simplified): 37.92820005, -122.05405866943175
+Geocoded Copperopolis, CA (simplified): 37.941764, -120.63679473786408
+Geocoded Corcoran city, CA: 36.100212549999995, -119.57302574996764
+Geocoded Corning city, CA: 39.9282162, -122.1798063
+Geocoded Corona city, CA: 33.85796995, -117.55390420153932
+Geocoded Coronado city, CA: 32.6915199, -117.1766947
+Geocoded Coronita, CA (simplified): 33.8760978, -117.611412
+Geocoded Corralitos, CA (simplified): 36.995126799999994, -121.78940989713632
+Geocoded Corte Madera town, CA: 37.9275055, -122.51714823355587
+Geocoded Costa Mesa city, CA: 33.663161650000006, -117.9028903420515
+Geocoded Cotati city, CA: 38.323605900000004, -122.70839972224255
+Geocoded Coto de Caza, CA (simplified): 33.6013399, -117.58562347243206
+Geocoded Cottonwood, CA (simplified): 40.3914405, -122.2833059594185
+Geocoded Cottonwood, CA (simplified): 40.3914405, -122.2833059594185
+Geocoded Coulterville, CA (simplified): 37.710486, -120.1979658
+Geocoded Country Club, CA (simplified): 37.9687415, -121.33390959301333
+Geocoded Courtland, CA (simplified): 38.3310231, -121.568566
+Geocoded Covelo, CA (simplified): 39.7929324, -123.248068
+Geocoded Covina city, CA: 34.0877926, -117.8891164
+Geocoded Cowan, CA (simplified): 52.0347545, -100.6491295
+Geocoded Crane Creek, CA (simplified): 53.01769575004662, -97.30596825860444
+Geocoded Crescent City city, CA: 45.306864, -66.0159569
+Geocoded Crescent Mills, CA (simplified): 40.10507, -120.92004479803768
+Geocoded Cressey, CA (simplified): 37.4196598, -120.6674207
+Geocoded Crest, CA (simplified): 32.8021129, -116.86889265723529
+Geocoded Crestline, CA (simplified): 34.247549250000006, -117.28603709230573
+Geocoded Creston, CA (simplified): 49.0971526, -116.5129759
+Geocoded C-Road, CA (simplified): 39.7642605, -120.57942825613276
+Geocoded Crockett, CA (simplified): 38.036666, -122.20531126326466
+Geocoded Cromberg, CA (simplified): 39.8726675, -120.69156928057554
+Geocoded Crowley Lake, CA (simplified): 37.564155, -118.7454082
+Geocoded Crows Landing, CA (simplified): 37.3938244, -121.0715976
+Geocoded Cudahy city, CA: 33.9592926, -118.1746196
+Geocoded Culver City city, CA: 34.0211224, -118.396466
+Geocoded Cupertino city, CA: 37.3307023, -122.05158608775531
+Geocoded Cutler, CA (simplified): 36.5232834, -119.2867823
+Geocoded Cutten, CA (simplified): 40.7627839, -124.14627944390796
+Geocoded Cuyama, CA (simplified): 34.9352537, -119.6151279
+Geocoded Cypress city, CA: 39.17228348171926, -121.63034077006775
+Geocoded Dales, CA (simplified): 40.3137671, -122.0716612
+Geocoded Daly City city, CA: 37.6904826, -122.47267
+Geocoded Dana Point city, CA: 37.5405518, -122.24660895
+Geocoded Danville town, CA: 37.813492, -121.99739223581017
+Geocoded Daphnedale Park, CA (simplified): 41.5090589, -120.5449558
+Geocoded Darwin, CA (simplified): 36.2676855, -117.5918823
+Geocoded Davenport, CA (simplified): 43.6691346, -79.4452403147553
+Geocoded Davis city, CA: 40.6389397, -93.8085217
+Geocoded Day Valley, CA (simplified): 36.9956878, -121.848724
+Geocoded Deer Park, CA (simplified): 43.68809, -79.3940935
+Geocoded Del Aire, CA (simplified): 33.9177572, -118.3708478
+Geocoded Delano city, CA: 46.99746271344319, -65.57197829759076
+Geocoded Del Dios, CA (simplified): 33.0728984, -117.1194821
+Geocoded Delft Colony, CA (simplified): 36.51192885, -119.44642993180867
+Geocoded Delhi, CA (simplified): 37.43394785, -120.77689713537688
+Geocoded Delleker, CA (simplified): 39.810267499999995, -120.49629271231527
+Geocoded Del Mar city, CA: 43.001056250000005, -81.18805597057015
+Geocoded Del Monte Forest, CA (simplified): 36.5863492, -121.947455
+Geocoded Del Rey, CA (simplified): 36.65599105, -119.59893450240824
+Geocoded Del Rey Oaks city, CA: 36.594216349999996, -121.8373559388167
+Geocoded Del Rio, CA (simplified): 37.746448, -121.00984134989467
+Geocoded Denair, CA (simplified): 37.5257331, -120.7973284
+Geocoded Derby Acres, CA (simplified): 35.2454565, -119.60202294380835
+Geocoded Descanso, CA (simplified): 32.864564900000005, -116.63011931358452
+Geocoded Desert Center, CA (simplified): 33.73663715, -115.36431493525211
+Geocoded Desert Edge, CA (simplified): 33.921449499999994, -116.44062362289084
+Geocoded Desert Hot Springs, CA (simplified): 33.961124, -116.5016784
+Geocoded Desert Palms, CA (simplified): 33.7778817, -116.29217447589903
+Geocoded Desert Shores, CA (simplified): 33.40133635, -116.03906503385808
+Geocoded Desert View Highlands, CA (simplified): 34.5899673, -118.15347106759879
+Geocoded Diablo CDP, CA: 33.60891115, -112.266327225
+Geocoded Diablo Grande, CA (simplified): 37.44370783357652, -121.19461604862951
+Geocoded Diamond Bar city, CA: 33.9992248, -117.8305056
+Geocoded Diamond Springs, CA (simplified): 38.6941278, -120.8163122
+Geocoded Di Giorgio, CA (simplified): 35.2527389, -118.8514873
+Geocoded Dillon Beach, CA (simplified): 38.2481035, -122.95520923129016
+Geocoded Dinuba city, CA: 36.5528231, -119.3881609
+Geocoded Discovery Bay, CA (simplified): 37.9042862, -121.602247
+Geocoded Dixon city, CA: 33.1617054, -117.0466974
+Warning: No coordinates found for Dixon Lane-MeadowCreek CDP, CA or Dixon Lane-MeadowCreek, CA
+Geocoded Dobbins CDP, CA: 34.149997945029725, -86.2181605765045
+Geocoded Dogtown, CA (simplified): 37.7021524, -120.1279636
+Geocoded Dollar Point, CA (simplified): 39.1907424, -120.1066703
+Geocoded Dorrington, CA (simplified): 38.297418, -120.27356842381786
+Geocoded Dorris city, CA: 41.9638773, -121.9179179
+Geocoded Dos Palos city, CA: 36.986336, -120.627961
+Geocoded Dos Palos Y, CA (simplified): 37.0486808, -120.635152
+Geocoded Douglas City, CA (simplified): 40.6520897, -122.9447474
+Geocoded Downey city, CA: 33.9397381, -118.12893316717091
+Geocoded Downieville, CA (simplified): 39.5604439, -120.828217
+Geocoded Doyle, CA (simplified): 40.0278606, -120.104202
+Geocoded Drytown, CA (simplified): 38.4410213, -120.8543816
+Geocoded Duarte city, CA: 34.1325154, -117.967501
+Geocoded Dublin city, CA: 53.3493795, -6.2605593
+Geocoded Ducor, CA (simplified): 35.8916196, -119.047324
+Geocoded Dunnigan, CA (simplified): 38.8851773, -121.9696908
+Geocoded Dunsmuir city, CA: 49.27737778037142, -123.10315273182697
+Geocoded Durham, CA (simplified): 44.0310471, -78.949678
+Geocoded Dustin Acres, CA (simplified): 35.2191745, -119.37699427480483
+Geocoded Dutch Flat, CA (simplified): 39.2065535, -120.8385108
+Geocoded Eagleville, CA (simplified): 39.5793348, -121.096346
+Geocoded Earlimart, CA (simplified): 35.879971499999996, -119.27259607724633
+Geocoded East Bakersfield, CA (simplified): 35.386625, -118.977322
+Warning: No coordinates found for Eastern Goleta Valley CDP, CA or Eastern Goleta Valley, CA
+Geocoded East Foothills, CA (simplified): 37.38158, -121.81143095468795
+Geocoded East Hemet, CA (simplified): 33.7386312, -116.93901693372241
+Geocoded East Los Angeles, CA (simplified): 34.0239015, -118.172015
+Geocoded East Nicolaus, CA (simplified): 38.9101746, -121.5449598
+Geocoded East Niles, CA (simplified): 36.85460439619316, -119.76209231872579
+Geocoded East Oakdale, CA (simplified): 37.787351349999994, -120.81972543130206
+Geocoded Easton, CA (simplified): 36.653406000000004, -119.79078427210767
+Geocoded East Orosi, CA (simplified): 36.5480054, -119.2606704
+Geocoded East Palo Alto city, CA: 37.4723893, -122.1401211
+Geocoded East Pasadena, CA (simplified): 34.06356760893805, -117.74707642646119
+Geocoded East Porterville, CA (simplified): 36.0577505, -118.97925380351953
+Geocoded East Quincy, CA (simplified): 39.916957, -120.91911030170704
+Geocoded East Rancho Dominguez, CA (simplified): 33.8980712, -118.195348
+Geocoded East Richmond Heights, CA (simplified): 37.9455014, -122.31556229082719
+Geocoded East San Gabriel, CA (simplified): 34.11726715, -118.08264942404071
+Geocoded East Shore, CA (simplified): 40.23678085, -121.07477619183777
+Geocoded East Sonora, CA (simplified): 37.9778525, -120.3436499742452
+Geocoded East Tulare Villa, CA (simplified): 36.2038887, -119.2823099
+Geocoded Eastvale city, CA: 33.976061900000005, -117.55253213041188
+Geocoded East Whittier, CA (simplified): 33.9244577, -117.9889525
+Geocoded Edgewood CDP, CA: 33.62681335192764, -112.29780422064935
+Geocoded Edison, CA (simplified): 35.3474591, -118.8717638
+Geocoded Edmundson Acres, CA (simplified): 35.2288506, -118.8231531
+Geocoded Edna, CA (simplified): 44.6514366, -63.5822809
+Geocoded Edwards AFB, CA (simplified): 34.91190565, -117.88324122324511
+Geocoded El Adobe, CA (simplified): 33.49858315, -117.66323831974377
+Geocoded El Cajon city, CA: 32.795594699999995, -116.95950887895309
+Geocoded El Centro city, CA: 34.101027200000004, -118.32448157932069
+Geocoded El Centro Naval Air Facility, CA (simplified): 32.823353, -115.66785507473844
+Geocoded El Cerrito city, CA: 37.9297962, -122.29973225088433
+Geocoded El Cerrito, CA (simplified): 37.9154056, -122.301411
+Geocoded El Dorado Hills, CA (simplified): 38.68519285, -121.06044710794289
+Geocoded Eldridge, CA (simplified): 38.33464395, -122.50711343648408
+Geocoded Elfin Forest, CA (simplified): 33.0807884, -117.18021630236777
+Geocoded El Granada, CA (simplified): 37.513127, -122.46731582660925
+Geocoded Elizabeth Lake, CA (simplified): 52.482416, -113.73714597957814
+Geocoded Elk Creek, CA (simplified): 39.6051574, -122.5391598
+Geocoded Elk Grove city, CA: 38.4087993, -121.3716178
+Geocoded Elkhorn CDP, CA: 33.611715007705264, -112.25862894838725
+Geocoded El Macero, CA (simplified): 38.5439642, -121.6835482
+Geocoded Elmira, CA (simplified): 43.5919677, -80.5121147
+Geocoded El Monte city, CA: 30.6607465, -88.163891
+Geocoded El Nido, CA (simplified): 33.8655706, -118.3614631
+Geocoded El Paso de Robles (Paso Robles) city, CA: 35.6260728, -120.69008859091691
+Geocoded El Portal, CA (simplified): 37.6746526, -119.7840681
+Geocoded El Rio, CA (simplified): 34.244048, -119.15682232987136
+Geocoded El Segundo city, CA: 33.9205688, -118.4156318
+Geocoded El Sobrante, CA (simplified): 37.9744635, -122.30572940306472
+Geocoded El Sobrante, CA (simplified): 37.9744635, -122.30572940306472
+Geocoded El Verano, CA (simplified): 38.297128, -122.49196426515151
+Geocoded Elverta, CA (simplified): 38.713791, -121.4627326
+Geocoded Emerald Lake Hills, CA (simplified): 37.4646603, -122.2680227
+Geocoded Emeryville city, CA: 37.8310492, -122.285446
+Geocoded Empire, CA (simplified): 37.6408135, -120.90708913035556
+Geocoded Encinitas city, CA: 33.0369867, -117.2919818
+Geocoded Escalon city, CA: 34.13823353952303, -118.50273084158218
+Geocoded Escondido city, CA: 33.1216751, -117.0814849
+Geocoded Esparto, CA (simplified): 38.694590500000004, -122.02136811201629
+Geocoded Etna city, CA: 41.4603645, -122.899404951259
+Geocoded Eucalyptus Hills, CA (simplified): 32.8857913, -116.94723445875918
+Geocoded Eureka city, CA: 40.80219615, -124.16008252782389
+Geocoded Exeter city, CA: 36.2966691, -119.1422506
+Geocoded Fairbanks Ranch, CA (simplified): 32.991665499999996, -117.18834237838212
+Geocoded Fairfax, CA (simplified): 37.9872935, -122.587967
+Geocoded Fairfax town, CA: 37.9872935, -122.587967
+Geocoded Fairfield city, CA: 38.252640850000006, -122.04690195968145
+Geocoded Fairhaven, CA (simplified): 40.785126, -124.2028401
+Geocoded Fairmead, CA (simplified): 37.0762856, -120.1930565
+Geocoded Fair Oaks, CA (simplified): 38.642897000000005, -121.24624532104002
+Geocoded Fairview, CA (simplified): 49.6956106, -112.77576857507452
+Geocoded Fallbrook CDP, CA: 33.61817598754291, -112.26224141665445
+Geocoded Fall River Mills, CA (simplified): 41.00455615, -121.44117792686552
+Geocoded Farmersville city, CA: 36.29734345, -119.21537608618934
+Geocoded Farmington, CA (simplified): 37.92664499999999, -120.98535915462384
+Geocoded Fellows, CA (simplified): 35.178418, -119.54612561419435
+Geocoded Felton, CA (simplified): 37.0513364, -122.07329
+Geocoded Ferndale city, CA: 49.1692408, -123.124388
+Geocoded Fetters Hot Springs-Agua Caliente, CA (simplified): 38.3215825, -122.4887573153409
+Geocoded Fiddletown, CA (simplified): 38.5037966, -120.7554891
+Geocoded Fieldbrook, CA (simplified): 40.9656826, -124.0356196
+Geocoded Fields Landing, CA (simplified): 40.7252211, -124.2169535
+Geocoded Fillmore city, CA: 34.3985996, -118.9123633
+Geocoded Firebaugh city, CA: 36.859540550000006, -120.45589179999999
+Geocoded Fish Camp, CA (simplified): 37.4785497, -119.6404311
+Geocoded Florence-Graham, CA (simplified): 33.9746324, -118.2423872
+Geocoded Florin, CA (simplified): 38.4897749, -121.40574723644673
+Geocoded Floriston, CA (simplified): 39.3939338, -120.0216942
+Geocoded Flournoy, CA (simplified): 39.920433, -122.4361082
+Geocoded Folsom city, CA: 38.68352505, -121.1659582380878
+Geocoded Fontana city, CA: 34.0959333, -117.44605718354869
+Geocoded Foothill Farms, CA (simplified): 38.6838, -121.34713866939214
+Geocoded Forbestown, CA (simplified): 39.51711, -121.267184
+Geocoded Ford City, CA (simplified): 35.16591775, -119.45930349699975
+Geocoded Foresthill, CA (simplified): 39.0019935, -120.82540181422367
+Geocoded Forest Meadows, CA (simplified): 38.166341, -120.40257967934784
+Geocoded Forest Ranch, CA (simplified): 39.8821053, -121.6727541
+Geocoded Forestville, CA (simplified): 48.739437, -69.088211
+Geocoded Fort Bidwell, CA (simplified): 41.8604463, -120.1513388
+Geocoded Fort Bragg city, CA: 39.445723, -123.8041824
+Geocoded Fort Dick, CA (simplified): 41.8678909, -124.1489706
+Geocoded Fort Hunter Liggett, CA (simplified): 35.954391, -121.27893950967604
+Geocoded Fort Irwin, CA (simplified): 35.3833955, -116.54475318502938
+Geocoded Fort Jones city, CA: 41.60696885, -122.83955444647222
+Geocoded Fortuna city, CA: 40.59729695, -124.15502030563533
+Geocoded Fort Washington, CA (simplified): 38.7254674, -76.9900251
+Geocoded Foster City city, CA: 37.5600336, -122.2688522
+Geocoded Fountain Valley city, CA: -35.07874014450053, 138.54968147606363
+Geocoded Fowler city, CA: 36.630228, -119.6770807
+Geocoded Franklin, CA (simplified): 45.052063849999996, -73.89864483043263
+Geocoded Franklin, CA (simplified): 45.052063849999996, -73.89864483043263
+Geocoded Frazier Park, CA (simplified): 34.8227556, -118.9448219
+Geocoded Freedom, CA (simplified): 36.9381642, -121.80205628180576
+Geocoded Freeport, CA (simplified): 44.2773884, -66.3243458
+Geocoded Fremont city, CA: 49.2850624, -123.13581745077204
+Geocoded French Camp, CA (simplified): 37.876290999999995, -121.2717439299314
+Geocoded French Gulch, CA (simplified): 40.710809, -122.62553724529425
+Geocoded French Valley, CA (simplified): 33.5994102, -117.1091717
+Geocoded Fresno city, CA: 36.76793395, -119.79659135477151
+Geocoded Friant, CA (simplified): 36.983858, -119.71346236018485
+Geocoded Fruitdale, CA (simplified): 37.3082755, -121.9177337
+Warning: No coordinates found for Fruitridge Pocket CDP, CA or Fruitridge Pocket, CA
+Geocoded Fuller Acres, CA (simplified): 35.2999602, -118.9117658
+Geocoded Fullerton city, CA: 33.87078295, -117.92942000403399
+Geocoded Fulton, CA (simplified): 43.1375848, -79.6702341
+Geocoded Furnace Creek, CA (simplified): 36.4343564, -116.86284967575565
+Geocoded Galt city, CA: 38.252693, -121.2957817
+Geocoded Garberville, CA (simplified): 40.100569, -123.796139
+Geocoded Gardena city, CA: 33.88267355, -118.30709527347932
+Geocoded Garden Acres, CA (simplified): 37.965188299999994, -121.22809054291065
+Geocoded Garden Farms, CA (simplified): 35.4180286, -120.6062789
+Geocoded Garden Grove city, CA: 33.5905135, -79.0116325
+Geocoded Garey, CA (simplified): 34.8887584, -120.3149008
+Geocoded Garnet, CA (simplified): 33.9177001, -116.47555340049297
+Geocoded Gasquet, CA (simplified): 41.8456954, -123.9770953
+Geocoded Gazelle, CA (simplified): 41.5205162, -122.52092313735605
+Geocoded Georgetown, CA (simplified): 46.1844077, -62.5315437
+Geocoded Gerber, CA (simplified): 40.06327415, -122.1484076313875
+Geocoded Geyserville, CA (simplified): 38.707687, -122.902496
+Geocoded Gilroy city, CA: 37.0131743, -121.582159
+Geocoded Glendale city, CA: 34.1538013, -118.2550389
+Geocoded Glendora city, CA: 34.13562745, -117.86468479348959
+Geocoded Glen Ellen, CA (simplified): 38.355533, -122.53907290000001
+Geocoded Glennville, CA (simplified): 35.7288416, -118.7036997
+Geocoded Golden Hills, CA (simplified): 35.142465, -118.4903643
+Geocoded Gold Mountain, CA (simplified): 34.2885382, -116.8393073
+Geocoded Gold River, CA (simplified): 49.7807549, -126.0473015
+Geocoded Goleta city, CA: 34.4293843, -119.8729144
+Geocoded Gonzales city, CA: 36.5081014, -121.4432463
+Geocoded Good Hope, CA (simplified): 33.7647418, -117.2669825
+Geocoded Goodmanville, CA (simplified): 35.43602825, -118.9319896
+Geocoded Goodyears Bar, CA (simplified): 39.5400438, -120.8851677
+Geocoded Goshen, CA (simplified): 36.352617699999996, -119.42578497096542
+Geocoded Graeagle, CA (simplified): 39.7533435, -120.64844580134007
+Geocoded Grand Terrace city, CA: 35.44913451551749, -97.57184577579123
+Geocoded Grangeville, CA (simplified): 36.3435612, -119.7087425
+Geocoded Granite Bay, CA (simplified): 38.762173000000004, -121.18500570860975
+Geocoded Granite Hills, CA (simplified): 32.80716150000001, -116.91021670057802
+Geocoded Graniteville, CA (simplified): 39.4407321, -120.7396623
+Geocoded Grass Valley city, CA: 37.354700799999996, -121.80192615
+Geocoded Graton, CA (simplified): 38.438618500000004, -122.86569767534337
+Geocoded Grayson, CA (simplified): 50.7200242, -102.6430165
+Geocoded Greeley Hill, CA (simplified): 37.744894, -120.1298327
+Geocoded Greenacres, CA (simplified): 35.3832927, -119.1098266
+Geocoded Green Acres, CA (simplified): 44.59301, -63.5992835
+Geocoded Greenfield, CA (simplified): 36.3207998, -121.243813
+Geocoded Greenfield city, CA: 36.3230221, -121.2457583
+Geocoded Greenhorn, CA (simplified): 39.9041315, -120.75887282860478
+Geocoded Green Valley, CA (simplified): 34.6200885, -118.4131734
+Geocoded Green Valley, CA (simplified): 34.6200885, -118.4131734
+Geocoded Greenview, CA (simplified): 51.0953824, -114.058469
+Geocoded Greenville, CA (simplified): 40.136846500000004, -120.95057800475286
+Geocoded Grenada, CA (simplified): 41.641805, -122.5262735
+Geocoded Gridley city, CA: 39.365250700000004, -121.69737863947759
+Geocoded Grimes, CA (simplified): 39.0743383, -121.8938583
+Geocoded Grizzly Flats, CA (simplified): 38.6362947, -120.527425
+Geocoded Groveland, CA (simplified): 37.8382608, -120.2326894
+Geocoded Grover Beach city, CA: 35.120809, -120.6218376
+Geocoded Guadalupe city, CA: 10.3228797, 123.8839389
+Geocoded Guerneville, CA (simplified): 38.5020445, -122.9987407
+Geocoded Guinda, CA (simplified): 38.8290674, -122.1938633
+Geocoded Gustine city, CA: 37.581573565337536, -122.06388314121408
+Geocoded Hacienda Heights, CA (simplified): 33.9930677, -117.968675
+Geocoded Half Moon Bay city, CA: 45.24815245, -75.73924365447546
+Geocoded Hamilton Branch, CA (simplified): 40.2761692, -121.09401246283423
+Geocoded Hamilton City, CA (simplified): 39.7426598, -122.0135914
+Geocoded Hanford city, CA: 36.3293044, -119.6468654
+Geocoded Happy Camp, CA (simplified): 41.814512, -123.38403047078882
+Geocoded Happy Valley, CA (simplified): 49.1344098, -105.013041
+Geocoded Harbison Canyon, CA (simplified): 32.8235519, -116.83377600409982
+Geocoded Hardwick, CA (simplified): 36.401339, -119.7187441
+Geocoded Harmony Grove, CA (simplified): 33.0961519, -117.1353111
+Geocoded Hartland, CA (simplified): 46.2999976, -67.5257163
+Geocoded Hartley, CA (simplified): 38.4171313, -121.9469106
+Geocoded Hasley Canyon, CA (simplified): 34.4784867, -118.661582
+Geocoded Hat Creek, CA (simplified): 40.91858085361922, -121.55204566288121
+Geocoded Hawaiian Gardens city, CA: 33.82996325, -118.08246181423135
+Geocoded Hawthorne city, CA: 33.91853285, -118.35429657366072
+Geocoded Hayfork, CA (simplified): 40.5880705, -123.13484758774351
+Geocoded Hayward city, CA: 37.67089945, -122.0857705598822
+Geocoded Healdsburg, CA (simplified): 38.6106812, -122.870138
+Geocoded Heber, CA (simplified): 32.7334821, -115.53000073270826
+Geocoded Hemet city, CA: 34.102395640833215, -118.36485907236468
+Geocoded Herald, CA (simplified): 38.2957474, -121.2443919
+Geocoded Hercules city, CA: 37.80999905, -122.42224204376443
+Geocoded Herlong, CA (simplified): 40.1435142, -120.134651
+Geocoded Hermosa Beach city, CA: 33.86309145, -118.40281302417885
+Geocoded Hesperia city, CA: 34.4272152, -117.31674885808042
+Geocoded Hickman, CA (simplified): 37.62452715, -120.75612903325089
+Geocoded Hidden Hills city, CA: 34.17179, -118.65881387202087
+Geocoded Hidden Meadows, CA (simplified): 33.2240711, -117.114783923526
+Geocoded Hidden Valley Lake, CA (simplified): 38.8025675, -122.53395009710536
+Geocoded Highgrove, CA (simplified): 34.012937550000004, -117.32374325809897
+Geocoded Highland city, CA: 27.960246050000002, -81.88049565089378
+Geocoded Highlands, CA (simplified): 48.4812901, -123.5123653
+Geocoded Hillcrest, CA (simplified): 32.7482898, -117.1609755
+Geocoded Hillsborough town, CA: 46.236114145026654, -63.10469956376202
+Geocoded Hilmar-Irwin, CA (simplified): 37.4042435, -120.85011705415363
+Geocoded Hiouchi, CA (simplified): 41.7926137, -124.0720219
+Geocoded Hollister city, CA: 36.85117515, -121.40333195421678
+Geocoded Holtville city, CA: 32.813106700000006, -115.3798683423837
+Geocoded Home Garden, CA (simplified): 36.3032834, -119.6362393
+Geocoded Home Gardens, CA (simplified): 33.8808327, -117.5133522182106
+Geocoded Homeland, CA (simplified): 33.7456205, -117.10775063421292
+Geocoded Homestead Valley, CA (simplified): 34.2737762, -116.39570485050693
+Geocoded Homewood Canyon, CA (simplified): 35.8943511, -117.3835429
+Geocoded Honcut, CA (simplified): 39.326666, -121.5354443
+Geocoded Hood, CA (simplified): 38.3682444, -121.5174543
+Geocoded Hoopa, CA (simplified): 41.064039, -123.685687
+Geocoded Hopland, CA (simplified): 38.9729542, -123.1163918
+Geocoded Hornbrook, CA (simplified): 41.90929, -122.56059752741616
+Geocoded Hornitos, CA (simplified): 37.5021592, -120.238241
+Geocoded Hughson city, CA: 37.597432, -120.8654852
+Geocoded Humboldt Hill, CA (simplified): 40.7259606, -124.189781
+Geocoded Huntington Beach city, CA: 33.6510612, -117.99537355218565
+Geocoded Huntington Park city, CA: 33.979670299999995, -118.21756075692221
+Geocoded Huron city, CA: 36.2050431, -120.10409681075132
+Geocoded Hyampom, CA (simplified): 40.6173635, -123.4525362
+Geocoded Hydesville, CA (simplified): 40.561642, -124.07958847441185
+Geocoded Hypericum, CA (simplified): 36.2561656, -119.2169595
+Geocoded Idlewild CDP, CA: 33.41116341199359, -86.63576242982961
+Geocoded Idyllwild-Pine Cove, CA (simplified): 33.7435698, -116.72377632640692
+Geocoded Igo, CA (simplified): 40.5054508, -122.541703
+Geocoded Imperial city, CA: 32.583893, -117.1130487
+Geocoded Imperial Beach city, CA: 32.583893, -117.1130487
+Geocoded Independence, CA (simplified): 36.821987, -118.20512944399434
+Geocoded Indian Falls, CA (simplified): 40.05936075, -120.9749309204856
+Geocoded Indianola, CA (simplified): 40.8126285, -124.0831154
+Geocoded Indian Wells city, CA: 33.7192808, -116.2188054
+Geocoded Indio city, CA: 33.7192808, -116.2188054
+Geocoded Indio Hills, CA (simplified): 33.847363400000006, -116.24848657043134
+Geocoded Industry city, CA: 34.0182252, -117.9593061
+Geocoded Inglewood city, CA: 33.96309915, -118.3548178
+Geocoded Interlaken, CA (simplified): 36.9529645, -121.730762
+Geocoded Inverness, CA (simplified): 46.2596772, -71.521879
+Geocoded Inyokern, CA (simplified): 35.6468991, -117.8125674
+Geocoded Ione city, CA: 38.3529691, -120.9332732
+Geocoded Iron Horse, CA (simplified): 39.7882342, -120.4968818
+Geocoded Irvine city, CA: 33.686212, -117.82642709401738
+Geocoded Irwindale city, CA: 34.125875699999995, -117.93810406771156
+Geocoded Isla Vista, CA (simplified): 34.4115125, -119.8562131
+Geocoded Isleton city, CA: 38.1619808, -121.6126894
+Geocoded Ivanhoe, CA (simplified): 36.385031, -119.22026709131109
+Geocoded Jackson city, CA: 37.3585295, -121.8435121
+Geocoded Jacumba, CA (simplified): 32.630208100000004, -116.17500077204724
+Geocoded Jamestown, CA (simplified): 37.9588565, -120.40443116813324
+Geocoded Jamul, CA (simplified): 32.715507, -116.86680104773984
+Geocoded Janesville, CA (simplified): 40.2981356, -120.526772
+Geocoded Jenner, CA (simplified): 50.7481727, -111.1831348
+Geocoded Johannesburg, CA (simplified): 35.3717305, -117.64245613122274
+Geocoded Johnson Park, CA (simplified): 49.8694229, -119.42805642713634
+Geocoded Johnstonville, CA (simplified): 40.3843408, -120.587448
+Geocoded Johnsville, CA (simplified): 39.77098050742403, -120.6788381450468
+Geocoded Jones Valley, CA (simplified): 45.47446735, -77.81071200145207
+Geocoded Joshua Tree, CA (simplified): 34.123380299999994, -116.31287923250358
+Geocoded Jovista, CA (simplified): 35.7974534, -119.1828844
+Geocoded Julian, CA (simplified): 33.0739633, -116.58784641698841
+Geocoded Junction City, CA (simplified): 40.733199, -123.05364
+Geocoded June Lake, CA (simplified): 37.788610500000004, -119.07461730440954
+Geocoded Jurupa Valley city, CA: 33.992651, -117.3972522900523
+Geocoded Keddie, CA (simplified): 40.008354, -120.96443941084021
+Geocoded Keeler, CA (simplified): 36.482546, -117.86575631459041
+Geocoded Keene, CA (simplified): 35.2235728, -118.5623117
+Geocoded Kelly Ridge, CA (simplified): 39.5396086, -121.4649676
+Geocoded Kelseyville, CA (simplified): 38.9779531, -122.8394375
+Geocoded Kennedy, CA (simplified): 43.732429, -79.2637529
+Geocoded Kennedy Meadows, CA (simplified): 36.0028736, -118.0993412056981
+Geocoded Kensington, CA (simplified): 46.4360505, -63.6378732
+Geocoded Kentfield, CA (simplified): 37.945825299999996, -122.55983680841354
+Geocoded Kenwood, CA (simplified): 38.4138005, -122.546093
+Geocoded Kep'el, CA (simplified): 41.2796747, -123.8340043
+Geocoded Kerman city, CA: 36.7216128, -120.0596011
+Geocoded Kernville, CA (simplified): 35.7330803, -118.43396436161865
+Geocoded Keswick, CA (simplified): 44.2396166, -79.4686558
+Geocoded Kettleman City, CA (simplified): 36.0087178, -119.9626738299649
+Geocoded Keyes, CA (simplified): 37.56046275, -120.90723290143049
+Geocoded King City city, CA: 43.9201118, -79.5270426
+Geocoded Kings Beach, CA (simplified): 39.2362794, -120.023362
+Geocoded Kingsburg city, CA: 36.5151885, -119.5527173
+Geocoded Kingvale, CA (simplified): 39.3177779, -120.4362611
+Geocoded Kirkwood, CA (simplified): 38.7026857, -120.072685
+Geocoded Klamath, CA (simplified): 41.5265092, -124.038406
+Geocoded Knightsen, CA (simplified): 37.9734579, -121.64894615323396
+Geocoded Knights Ferry, CA (simplified): 37.8196499, -120.6721494
+Geocoded Knights Landing, CA (simplified): 38.8004516, -121.7201424
+Geocoded La Cañada Flintridge, CA (simplified): 34.1998302, -118.2005236
+Geocoded La Crescenta-Montrose, CA (simplified): 34.220272538297785, -118.23995169538266
+Geocoded La Cresta, CA (simplified): 33.5663172, -117.2997836
+Geocoded Ladera, CA (simplified): 37.399772299999995, -122.19895215119763
+Geocoded Ladera Heights, CA (simplified): 33.9879488, -118.369798
+Geocoded Ladera Ranch, CA (simplified): 33.5520801, -117.6384556
+Geocoded Lafayette city, CA: 32.8998486, -85.4010592
+Geocoded La Grange, CA (simplified): 37.6635433, -120.4635289
+Geocoded Laguna Beach city, CA: 49.283815149999995, -123.1392527305168
+Geocoded Laguna Hills city, CA: 33.61315705, -117.71178517505061
+Geocoded Laguna Niguel city, CA: 33.52373735, -117.71583489835521
+Geocoded Laguna Woods city, CA: 33.61052005, -117.72345985000001
+Geocoded Lagunitas-Forest Knolls, CA (simplified): 38.0143412, -122.6955079
+Geocoded La Habra city, CA: 33.93598795, -117.9501308574798
+Geocoded La Habra Heights, CA (simplified): 33.9604546, -117.9504255
+Geocoded La Honda, CA (simplified): 37.3191086, -122.2741352
+Geocoded Lake Almanor Country Club, CA (simplified): 40.254195949999996, -121.14743387122704
+Geocoded Lake Almanor Peninsula, CA (simplified): 40.27972215, -121.12584793983308
+Geocoded Lake Almanor West, CA (simplified): 40.2353745, -121.20466556290063
+Geocoded Lake Arrowhead, CA (simplified): 34.257178100000004, -117.19090593555377
+Geocoded Lake California, CA (simplified): 40.3496504, -122.19797521393149
+Geocoded Lake City, CA (simplified): 41.6444254, -120.2155555
+Geocoded Lake Davis, CA (simplified): 39.8528905, -120.46578186454704
+Warning: No coordinates found for Lake Don Pedro CDP, CA or Lake Don Pedro, CA
+Geocoded Lake Elsinore city, CA: 33.6672438, -117.327817
+Geocoded Lake Forest city, CA: 45.6660499, -67.7269567
+Geocoded Lakehead, CA (simplified): 40.90515, -122.3791777
+Geocoded Lake Hughes, CA (simplified): 34.6774576, -118.4487112
+Geocoded Lake Isabella, CA (simplified): 35.638333, -118.48448710986042
+Geocoded Lakeland Village, CA (simplified): 33.6367576, -117.3444221
+Geocoded Lake Los Angeles, CA (simplified): 34.6091616, -117.84028141649746
+Geocoded Lake Mathews, CA (simplified): 33.840402999999995, -117.43832421322014
+Geocoded Lake Nacimiento, CA (simplified): 35.7376158, -120.87370744581287
+Geocoded Lake of the Pines, CA (simplified): 39.0367605, -121.06438033333333
+Geocoded Lake of the Woods, CA (simplified): 49.301617199999995, -94.6696447396798
+Geocoded Lakeport city, CA: 39.0434078, -122.9144209
+Geocoded Lake Riverside, CA (simplified): 33.51484165, -116.81021745480274
+Geocoded Lake San Marcos, CA (simplified): 33.12015675, -117.20565879199332
+Geocoded Lake Shastina, CA (simplified): 41.5286852, -122.36457
+Geocoded Lake Sherwood, CA (simplified): 34.13705515, -118.87489587697775
+Geocoded Lakeside, CA (simplified): 32.850319400000004, -116.89600836391115
+Geocoded Lakeside, CA (simplified): 32.850319400000004, -116.89600836391115
+Geocoded Lakeview, CA (simplified): 33.8269305, -117.12582694244551
+Geocoded Lake Wildwood, CA (simplified): 39.23429, -121.2020342097822
+Geocoded Lakewood city, CA: 45.3094245, -65.9786564
+Geocoded La Mesa city, CA: 32.7678288, -117.0230839
+Geocoded La Mirada city, CA: 33.9061248, -118.0111751
+Geocoded Lamont, CA (simplified): 35.2596833, -118.9142666
+Geocoded Lanare, CA (simplified): 36.4381935, -119.9321825950987
+Geocoded Lancaster city, CA: 34.69893735, -118.14539514250148
+Geocoded La Palma city, CA: 33.8489839, -118.03667245
+Geocoded La Porte, CA (simplified): 39.673258000000004, -120.98066403025477
+Geocoded La Presa, CA (simplified): 32.7055576, -117.00078272790344
+Geocoded La Puente city, CA: 34.01974835, -117.95028955109241
+Geocoded La Quinta city, CA: 33.677536950000004, -116.29539427592408
+Geocoded La Riviera, CA (simplified): 38.568972, -121.35181519374106
+Geocoded Larkfield-Wikiup, CA (simplified): 38.51027175, -122.75089334002308
+Geocoded Larkspur city, CA: 37.93624695, -122.53477372258455
+Geocoded La Selva Beach, CA (simplified): 36.936571, -121.8627775
+Geocoded Las Flores, CA (simplified): 33.583855, -117.62236107142857
+Geocoded Las Flores, CA (simplified): 33.583855, -117.62236107142857
+Geocoded Las Lomas, CA (simplified): 36.8688754, -121.73079753160816
+Geocoded Lathrop city, CA: 37.8040125, -121.30397289916183
+Geocoded Laton, CA (simplified): 36.43392, -119.68990382165002
+Geocoded La Verne city, CA: 34.1119533, -117.7650577
+Geocoded La Vina, CA (simplified): 36.880558, -120.1106412
+Geocoded Lawndale city, CA: 33.8980257, -118.3542492
+Geocoded Laytonville, CA (simplified): 39.67278245, -123.49406404859756
+Geocoded Lebec, CA (simplified): 34.8416435, -118.8648189
+Geocoded Lee Vining, CA (simplified): 37.954483100000004, -119.12329151153226
+Geocoded Leggett, CA (simplified): 39.8657071, -123.714188
+Geocoded Le Grand, CA (simplified): 37.228554, -120.2482336
+Geocoded Lemon Cove, CA (simplified): 36.381589500000004, -119.02836127222221
+Geocoded Lemon Grove city, CA: 32.7403295, -117.0314172
+Geocoded Lemon Hill, CA (simplified): 48.4854945, -81.6734505
+Geocoded Lemoore city, CA: 36.2987198, -119.78498474794642
+Geocoded Lemoore Station, CA (simplified): 36.333700199999996, -119.95154134336858
+Geocoded Lennox, CA (simplified): 33.9390306, -118.3574427
+Geocoded Lenwood, CA (simplified): 34.8869153, -117.10921791201199
+Geocoded Leona Valley, CA (simplified): 34.618321, -118.288133
+Geocoded Lewiston, CA (simplified): 40.693805499999996, -122.80675501751975
+Geocoded Lexington Hills, CA (simplified): 37.1624585, -121.98538717615781
+Geocoded Likely, CA (simplified): 41.2304507, -120.5041193
+Geocoded Lincoln city, CA: 44.9617922, -124.0159522
+Geocoded Lincoln Village, CA (simplified): 38.0052005, -121.3282812
+Geocoded Linda, CA (simplified): 39.1187725, -121.55479136972532
+Geocoded Lindcove, CA (simplified): 36.3577274, -119.0645489
+Geocoded Linden, CA (simplified): 51.591042, -113.489124
+Geocoded Lindsay city, CA: 36.213308850000004, -119.09306119838709
+Geocoded Linnell Camp, CA (simplified): 36.312386, -119.22414
+Geocoded Litchfield, CA (simplified): 45.77727295, -76.59212836810732
+Geocoded Little Grass Valley, CA (simplified): 39.726033, -120.9548981487805
+Geocoded Little River, CA (simplified): 39.2707318, -123.7883473
+Geocoded Littlerock, CA (simplified): 34.5213675, -117.98739359695347
+Geocoded Little Valley, CA (simplified): 40.894314, -121.1774909
+Geocoded Live Oak CDP, CA: 30.558806583280585, -88.23278936897384
+Geocoded Live Oak city, CA: 36.9628801, -121.980585
+Geocoded Livermore city, CA: 37.675237949999996, -121.755954866449
+Geocoded Livingston city, CA: 37.38470675, -120.7236370881345
+Geocoded Lockeford, CA (simplified): 38.1635297, -121.1499447
+Geocoded Lockwood, CA (simplified): 35.9442155, -121.0818785
+Geocoded Lockwood, CA (simplified): 35.9442155, -121.0818785
+Geocoded Lodi city, CA: 38.1345842, -121.27598907762918
+Geocoded Lodoga, CA (simplified): 39.3018307, -122.4891522
+Geocoded Loleta, CA (simplified): 40.6411711, -124.2244827
+Geocoded Loma Linda city, CA: 34.047554149999996, -117.24685024577437
+Geocoded Loma Mar, CA (simplified): 37.2710032, -122.3081626
+Geocoded Loma Rica, CA (simplified): 39.325933, -121.40605092884616
+Geocoded Lomita city, CA: 33.79895655, -118.31966283144038
+Geocoded Lompico, CA (simplified): 37.1055028, -122.0527402
+Geocoded Lompoc city, CA: 34.6391501, -120.4579009
+Geocoded London, CA (simplified): 42.9832406, -81.243372
+Geocoded Lone Pine, CA (simplified): 36.583175999999995, -118.07833811447833
+Geocoded Long Barn, CA (simplified): 38.0929762, -120.1343539
+Geocoded Long Beach city, CA: 44.4567705, -78.7359702
+Geocoded Lookout, CA (simplified): 41.2079441, -121.1552523
+Geocoded Loomis town, CA: 38.82085305, -121.1936122495365
+Geocoded Los Alamitos city, CA: 33.803596999999996, -118.07649755795576
+Geocoded Los Alamos, CA (simplified): 34.7379311, -120.26591046240952
+Geocoded Los Altos city, CA: 37.3816947, -122.11368947492022
+Geocoded Los Altos Hills town, CA: 37.3652492, -122.1172927
+Geocoded Los Angeles city, CA: 34.0536909, -118.242766
+Geocoded Los Banos city, CA: 37.0594525, -120.86919525
+Geocoded Los Berros, CA (simplified): 35.0788653, -120.542668
+Geocoded Los Gatos town, CA: 37.22556815, -121.9777298758873
+Geocoded Los Molinos, CA (simplified): 40.0212684, -122.100266
+Geocoded Los Olivos, CA (simplified): 34.6677646, -120.114847
+Geocoded Los Osos, CA (simplified): 35.3107214, -120.832348
+Geocoded Los Ranchos, CA (simplified): 34.5555116, -117.21278064504573
+Geocoded Lost Hills, CA (simplified): 35.632386999999994, -119.6777069230292
+Geocoded Lower Lake, CA (simplified): 38.8975815, -122.61889653811882
+Geocoded Loyalton city, CA: 39.67468185, -120.24094977499999
+Geocoded Loyola, CA (simplified): 37.3488983, -122.09631455637279
+Geocoded Lucas Valley-Marinwood, CA (simplified): 38.0374761, -122.5750197
+Geocoded Lucerne, CA (simplified): 39.0742975, -122.80199566729121
+Geocoded Lucerne Valley, CA (simplified): 34.4512775, -116.88894747536698
+Geocoded Lynwood city, CA: 33.926377450000004, -118.19884292681073
+Geocoded Lytle Creek, CA (simplified): 34.2591728, -117.5000512
+Geocoded Mabie, CA (simplified): 39.7935114, -120.5213272
+Geocoded McArthur, CA (simplified): 41.040549850000005, -121.40558984826492
+Geocoded McClellan Park, CA (simplified): 37.3140365, -122.0635369
+Warning: No coordinates found for McClenney Tract CDP, CA or McClenney Tract, CA
+Geocoded McCloud, CA (simplified): 41.2497685, -122.13526634266401
+Geocoded Macdoel, CA (simplified): 41.8268154, -122.0052851
+Geocoded McFarland city, CA: 35.67955, -119.22908588072855
+Geocoded McGee Creek, CA (simplified): 37.5857765, -118.7833482
+Geocoded McKinleyville, CA (simplified): 40.966004999999996, -124.10278977452401
+Geocoded McKittrick, CA (simplified): 35.295416, -119.6296285661846
+Geocoded McSwain, CA (simplified): 37.6465993, -120.3110238
+Geocoded Madeline, CA (simplified): 41.0513618, -120.4757656
+Geocoded Madera city, CA: 36.9625709, -120.06431662918304
+Geocoded Madera Acres, CA (simplified): 37.011554950000004, -120.08337257958456
+Geocoded Madera Ranchos, CA (simplified): 36.9310591, -119.8815418
+Geocoded Madison, CA (simplified): 51.2169361, -109.02321097380846
+Geocoded Mad River, CA (simplified): 40.5659413, -123.6424857
+Geocoded Magalia, CA (simplified): 39.8121058, -121.578305
+Geocoded Malaga, CA (simplified): 36.6818315, -119.73178875272427
+Geocoded Malibu city, CA: 34.0392059, -118.69310221905822
+Geocoded Mammoth Lakes town, CA: 37.6393557, -118.9642328
+Geocoded Manchester, CA (simplified): 45.4524738, -61.468274
+Geocoded Manhattan Beach city, CA: 33.8873656, -118.4106207
+Geocoded Manila, CA (simplified): 40.8517929, -124.1622856
+Geocoded Manteca city, CA: 37.80156785, -121.23564403206112
+Geocoded Manton, CA (simplified): 40.4351568, -121.86999
+Geocoded March ARB, CA (simplified): 33.882033750000005, -117.24542974929287
+Geocoded Maricopa city, CA: 35.0570608, -119.4029279
+Geocoded Marina city, CA: 41.888336699999996, -87.62883416506912
+Geocoded Marina del Rey, CA (simplified): 33.9776848, -118.448647
+Geocoded Marin City, CA (simplified): 37.8678295, -122.51231842884488
+Geocoded Mariposa, CA (simplified): 37.570148, -119.9036592
+Geocoded Markleeville, CA (simplified): 38.6671855, -119.83128225726742
+Geocoded Martell, CA (simplified): 38.3668572, -120.7960468
+Geocoded Martinez city, CA: 38.0140224, -122.1354623532552
+Geocoded Marysville city, CA: 39.141281, -121.5880211
+Geocoded Matheny, CA (simplified): 38.6819107, -121.32164460849916
+Geocoded Mather, CA (simplified): 49.0974327, -99.192371
+Geocoded Maxwell, CA (simplified): 39.2770035, -122.192406
+Geocoded Mayfair CDP, CA: 39.4421707, -76.65324056041482
+Geocoded Mayflower Village, CA (simplified): 34.1173306, -118.00958190376812
+Geocoded Maywood city, CA: 33.9877918, -118.1892381
+Geocoded Meadowbrook, CA (simplified): 50.5630167, -111.8615511
+Geocoded Meadow Valley, CA (simplified): 39.934528, -121.10049330292881
+Geocoded Meadow Vista, CA (simplified): 39.0016485, -121.03567537915235
+Geocoded Mead Valley, CA (simplified): 33.8333516, -117.2961512
+Geocoded Mecca, CA (simplified): 33.577260100000004, -116.06915518009735
+Geocoded Meiners Oaks, CA (simplified): 34.4507815, -119.27297088788191
+Geocoded Mendocino, CA (simplified): 39.3176491, -123.4126399
+Geocoded Mendota city, CA: 36.7536159, -120.3815711
+Geocoded Menifee city, CA: 33.68741245, -117.17446054936869
+Geocoded Menlo Park city, CA: 37.45399465, -122.17846745056535
+Geocoded Mentone, CA (simplified): 34.070013, -117.13448
+Geocoded Merced city, CA: 37.301929799999996, -120.491276752092
+Geocoded Meridian, CA (simplified): 35.1074655, -118.9142669
+Geocoded Mesa, CA (simplified): 37.42085455, -118.54389658412899
+Geocoded Mesa Verde, CA (simplified): 33.5906993, -114.74013318842722
+Geocoded Mesa Vista, CA (simplified): 38.798335, -119.84078196622613
+Geocoded Mettler, CA (simplified): 35.0635715, -118.97305815510737
+Geocoded Mexican Colony, CA (simplified): 35.4688478, -119.2687206
+Geocoded Meyers, CA (simplified): 38.8560185, -120.01296
+Geocoded Middletown, CA (simplified): 38.7528585, -122.62419487634216
+Geocoded Midpines, CA (simplified): 37.5443798, -119.9204507
+Geocoded Midway City, CA (simplified): 33.7457982, -117.9834996
+Geocoded Milford, CA (simplified): 40.1712892, -120.372437
+Geocoded Millbrae city, CA: 37.6028522, -122.3963391
+Geocoded Millerton, CA (simplified): 46.9029381, -65.6311085
+Geocoded Mill Valley city, CA: 43.1394967, -88.0603338
+Geocoded Millville, CA (simplified): 46.1310362, -67.1959665
+Geocoded Milpitas city, CA: 37.4329168, -121.8990953938326
+Geocoded Mineral, CA (simplified): 40.3469311, -121.599314
+Geocoded Minkler, CA (simplified): 36.7238391, -119.458183
+Geocoded Mira Monte, CA (simplified): 34.42665785, -119.2800757411886
+Geocoded Miranda, CA (simplified): 40.2345864, -123.8236457
+Geocoded Mission Canyon, CA (simplified): 34.4507012, -119.71306
+Geocoded Mission Hills, CA (simplified): 34.687584, -120.43901754304565
+Geocoded Mission Viejo city, CA: 33.5967421, -117.65977142254215
+Geocoded Mi-Wuk Village, CA (simplified): 38.060223, -120.17665489147166
+Geocoded Modesto city, CA: 37.626058, -120.95771779863395
+Geocoded Modjeska, CA (simplified): 33.7091863, -117.6261603
+Geocoded Mohawk Vista, CA (simplified): 39.808471, -120.59167114557084
+Geocoded Mojave, CA (simplified): 35.01096025, -118.19028326663798
+Geocoded Mokelumne Hill, CA (simplified): 38.3004709, -120.706321
+Geocoded Monmouth, CA (simplified): 36.5660611, -119.7401376
+Geocoded Mono City, CA (simplified): 38.0407564, -119.1445949
+Geocoded Mono Vista, CA (simplified): 38.0105865, -120.26953604439252
+Geocoded Monrovia city, CA: 34.1475687, -117.9990923
+Geocoded Monson, CA (simplified): 36.4909741, -119.33452052470383
+Geocoded Montague city, CA: 41.726532, -122.5264118
+Geocoded Montalvin Manor, CA (simplified): 37.9954781, -122.3327484
+Geocoded Montara, CA (simplified): 37.5494205, -122.49354100463822
+Geocoded Montclair city, CA: 34.07369285, -117.69304962304926
+Geocoded Montebello city, CA: 34.00962045, -118.11531444522556
+Geocoded Montecito, CA (simplified): 34.4366626, -119.6320753
+Geocoded Monterey city, CA: 36.59562805, -121.88435337216202
+Geocoded Monterey Park city, CA: 34.0591055, -118.1260414
+Warning: No coordinates found for Monterey Park Tract CDP, CA or Monterey Park Tract, CA
+Geocoded Monte Rio, CA (simplified): 38.4662855, -123.0196176658942
+Geocoded Monte Sereno city, CA: 37.2323714, -121.98589522577262
+Geocoded Montgomery Creek, CA (simplified): 40.839431250000004, -121.92315863321267
+Warning: No coordinates found for Monument Hills CDP, CA or Monument Hills, CA
+Geocoded Moorpark city, CA: 34.2875283, -118.8834035
+Geocoded Morada, CA (simplified): 38.0421425, -121.24875754580967
+Geocoded Moraga town, CA: 37.834897, -122.12883
+Geocoded Moreno Valley city, CA: 33.9176427, -117.21829351339491
+Geocoded Morgan Hill city, CA: 37.11449555, -121.64648246084988
+Geocoded Morongo Valley, CA (simplified): 34.073901649999996, -116.56292985281974
+Geocoded Morro Bay city, CA: 35.36628085, -120.84456086417349
+Warning: No coordinates found for Moskowite Corner CDP, CA or Moskowite Corner, CA
+Geocoded Moss Beach, CA (simplified): 37.52011950000001, -122.5096690223618
+Geocoded Moss Landing, CA (simplified): 36.7988827, -121.786581
+Geocoded Mountain Center, CA (simplified): 33.7149606, -116.72504805793731
+Geocoded Mountain Gate, CA (simplified): 40.7162613, -122.331674
+Geocoded Mountain House, CA (simplified): 37.7832614, -121.542726
+Geocoded Mountain Meadows CDP, CA: 32.459180671313824, -86.10227770903039
+Geocoded Mountain Mesa, CA (simplified): 35.640175, -118.40232296795145
+Geocoded Mountain Ranch, CA (simplified): 38.235224, -120.50680688009352
+Geocoded Mountain View, CA (simplified): 37.3893889, -122.0832101
+Geocoded Mountain View city, CA: -25.6997222, 28.1575
+Geocoded Mountain View Acres, CA (simplified): 34.497006600000006, -117.34703187747358
+Geocoded Mt. Bullion, CA (simplified): 37.5071591, -120.0448999
+Geocoded Mount Hebron, CA (simplified): 41.7835465, -122.00782081023635
+Geocoded Mount Hermon, CA (simplified): 37.0510596, -122.0585746
+Geocoded Mount Laguna, CA (simplified): 32.87112315, -116.42425657095163
+Geocoded Mount Shasta city, CA: 41.32776335, -122.32579122650877
+Geocoded Muir Beach, CA (simplified): 37.8661174, -122.58985865076625
+Geocoded Murphys, CA (simplified): 38.148340000000005, -120.45054479372936
+Geocoded Murrieta city, CA: 33.560037699999995, -117.2104220130407
+Geocoded Muscoy, CA (simplified): 34.15486, -117.34757115657216
+Geocoded Myers Flat, CA (simplified): 40.2662524, -123.8703146
+Geocoded Myrtletown, CA (simplified): 40.7887388, -124.130338
+Geocoded Napa city, CA: 38.3089841, -122.28760195463823
+Geocoded National City city, CA: 37.3647801, -121.922879
+Geocoded Needles city, CA: 34.837746499999994, -114.60601722055543
+Geocoded Nevada City city, CA: 39.2625993, -121.0187304
+Geocoded Newark city, CA: 37.53590595, -122.02952753817472
+Geocoded Newcastle CDP, CA: 33.60773978336968, -112.30048888215065
+Geocoded New Cuyama, CA (simplified): 34.9465835, -119.6860459
+Geocoded Newell, CA (simplified): 50.67197955, -111.95030449201712
+Geocoded Newman city, CA: 37.3139487, -121.0204222
+Geocoded New Pine Creek, CA (simplified): 41.9926652, -120.2971776
+Geocoded Newport Beach city, CA: 33.630881200000005, -117.92702226579681
+Geocoded Nicasio, CA (simplified): 38.0615885, -122.6985975
+Geocoded Nice, CA (simplified): 39.1212695, -122.8356288976635
+Geocoded Nicolaus, CA (simplified): 38.9032305, -121.5777385
+Geocoded Niland, CA (simplified): 33.23806225, -115.51354868822628
+Geocoded Nipinnawasee, CA (simplified): 37.4041078, -119.7329352
+Geocoded Nipomo, CA (simplified): 35.035821600000006, -120.4964189159617
+Geocoded Norco city, CA: 33.923192099999994, -117.56187095600495
+Geocoded Nord CDP, CA: 51.295331399999995, 7.369198014605912
+Geocoded Norris Canyon, CA (simplified): 37.7455116, -121.989225
+Geocoded North Auburn, CA (simplified): 38.9312869, -121.0818904
+Geocoded North Edwards, CA (simplified): 35.051011, -117.80410477461507
+Geocoded North El Monte, CA (simplified): 34.102291, -118.0244602053744
+Geocoded North Fair Oaks, CA (simplified): 37.47521155, -122.20143061444693
+Geocoded North Fork, CA (simplified): 37.2295677, -119.5096126
+Geocoded North Gate, CA (simplified): 37.9066672, -121.997294
+Geocoded North Highlands, CA (simplified): 38.6857362, -121.3721745
+Geocoded North Lakeport, CA (simplified): 39.090682, -122.90268789733179
+Geocoded North Richmond, CA (simplified): 37.9588126, -122.3674713
+Geocoded North San Juan, CA (simplified): 39.369864, -121.1054484
+Geocoded North Shore, CA (simplified): 33.5147927, -115.90918408331241
+Geocoded North Tustin, CA (simplified): 33.7633471, -117.7973920755044
+Geocoded Norwalk city, CA: 33.8879158, -118.0790951
+Geocoded Novato city, CA: 38.1061979, -122.5681191
+Geocoded Nubieber, CA (simplified): 41.0957214, -121.1830294
+Geocoded Nuevo CDP, CA: 34.8966305, -106.23305381277845
+Geocoded Oakdale city, CA: 37.7682613, -120.8496546
+Geocoded Oak Glen, CA (simplified): 34.041390199999995, -116.94724537701441
+Geocoded Oak Hills, CA (simplified): 34.3936652, -117.3827146
+Geocoded Oakhurst, CA (simplified): 37.333178000000004, -119.65724412283629
+Geocoded Oakland city, CA: 37.8034958, -122.271692
+Geocoded Oakley city, CA: 37.9970995, -121.718139
+Geocoded Oak Park, CA (simplified): 34.1792025, -118.7619719
+Geocoded Oak Run, CA (simplified): 40.6851543, -122.0247203
+Geocoded Oak Shores, CA (simplified): 35.7529972, -120.9857424
+Geocoded Oak View, CA (simplified): 34.398051, -119.29900228015194
+Geocoded Oakville, CA (simplified): 43.447436, -79.666672
+Geocoded Oasis, CA (simplified): 33.512517599999995, -116.12240047408702
+Geocoded Occidental, CA (simplified): 38.4010855, -122.93126325128165
+Geocoded Oceano, CA (simplified): 35.105309, -120.61689192900329
+Geocoded Oceanside city, CA: 33.1958696, -117.379483
+Geocoded Ocotillo, CA (simplified): 32.7416511, -116.0092025937198
+Geocoded Oildale, CA (simplified): 35.4285645, -119.023992237452
+Geocoded Ojai city, CA: 34.44455895, -119.24741869585753
+Geocoded Olancha, CA (simplified): 36.2702572, -117.99983117562155
+Warning: No coordinates found for Olde Stockdale CDP, CA or Olde Stockdale, CA
+Warning: No coordinates found for Old Fig Garden CDP, CA or Old Fig Garden, CA
+Geocoded Old River, CA (simplified): 35.2673514, -119.1095432
+Geocoded Old Station, CA (simplified): 40.6751608, -121.43081
+Geocoded Old Stine, CA (simplified): 40.63897166906308, -77.5118747450972
+Geocoded Olivehurst, CA (simplified): 39.079781999999994, -121.54418415329218
+Geocoded Ono, CA (simplified): 40.4751501, -122.61807
+Geocoded Ontario city, CA: 45.347749949999994, -75.76073279013673
+Geocoded Onyx CDP, CA: 33.6072605, -112.27210015
+Geocoded Orange city, CA: 43.0072424, -96.0583138
+Geocoded Orange Blossom, CA (simplified): 34.08926469934615, -117.88943154422324
+Geocoded Orange Cove city, CA: 36.6246718, -119.3131745
+Geocoded Orangevale, CA (simplified): 38.6785145, -121.2257818
+Geocoded Orcutt, CA (simplified): 34.8650717, -120.4366904
+Geocoded Orick, CA (simplified): 41.2867896, -124.0597937
+Geocoded Orinda city, CA: 37.308728872967, -121.79253666032194
+Geocoded Orland city, CA: 39.7457137, -122.1938747
+Geocoded Orosi, CA (simplified): 36.5449499, -119.2873384
+Geocoded Oroville city, CA: 39.5128847, -121.5582072362632
+Geocoded Oroville East, CA (simplified): 39.5075455, -121.4723131400223
+Geocoded Oxnard city, CA: 34.200737000000004, -119.18072412516469
+Geocoded Pacheco, CA (simplified): 37.990188, -122.06975043067993
+Geocoded Pacifica city, CA: 49.25784875, -123.11580399092736
+Geocoded Pacific Grove city, CA: 14.112716249999998, 120.94545483917688
+Geocoded Pajaro, CA (simplified): 36.90020825, -121.73970054706795
+Geocoded Pajaro Dunes, CA (simplified): 36.8673852, -121.8183169
+Geocoded Pala CDP, CA: -1.4093093723535042, -48.4777644259257
+Geocoded Palermo, CA (simplified): 39.435342, -121.53544327383693
+Geocoded Palmdale city, CA: 34.5779062, -118.1160112
+Geocoded Palm Desert city, CA: 33.7778817, -116.29217447589903
+Geocoded Palm Springs city, CA: 33.82397795, -116.51155435505554
+Geocoded Palo Alto city, CA: 37.4723893, -122.1401211
+Geocoded Palo Cedro, CA (simplified): 40.5637631, -122.238891
+Geocoded Palos Verdes Estates city, CA: 33.7999008, -118.3914877
+Geocoded Palo Verde, CA (simplified): 33.4265433, -114.72768447197845
+Geocoded Panorama Heights, CA (simplified): 53.632211299999994, -113.94079637714992
+Geocoded Paradise town, CA: 47.537012450000006, -52.85726528755271
+Geocoded Paradise, CA (simplified): 47.5255933, -52.8724145
+Geocoded Paradise Park, CA (simplified): 37.0075413, -122.0428777
+Geocoded Paramount city, CA: 33.8849351, -118.16115344430457
+Geocoded Parklawn, CA (simplified): 43.4091736, -80.37753608438891
+Geocoded Parksdale, CA (simplified): 36.94896335, -120.02365013181716
+Geocoded Parkway, CA (simplified): 43.4156438, -80.4423441
+Geocoded Parkwood CDP, CA: 33.39916854559222, -86.6411116976317
+Geocoded Parlier city, CA: 36.6122159, -119.5349702
+Geocoded Pasadena city, CA: 34.14400025, -118.11852064009449
+Geocoded Pasatiempo, CA (simplified): 37.0043939, -122.0257963
+Geocoded Paskenta, CA (simplified): 39.8842864, -122.546966
+Geocoded Patterson city, CA: 37.4710553, -121.1306616
+Warning: No coordinates found for Patterson Tract CDP, CA or Patterson Tract, CA
+Geocoded Patton Village, CA (simplified): 40.1436884, -120.1642934
+Geocoded Paxton, CA (simplified): 40.03093725, -121.0153253924812
+Geocoded Paynes Creek, CA (simplified): 40.31491690071562, -122.07090605028648
+Geocoded Pearsonville, CA (simplified): 35.8167155, -117.87504554504264
+Geocoded Penngrove, CA (simplified): 38.2996376, -122.6666533
+Geocoded Penn Valley, CA (simplified): 39.1948165, -121.19264637070282
+Geocoded Penryn, CA (simplified): 38.8521217, -121.1693926
+Geocoded Pepperdine University, CA (simplified): 34.043010300000006, -118.70934589328934
+Geocoded Perris city, CA: 33.7875193, -117.2278144
+Geocoded Pescadero, CA (simplified): 37.2516018, -122.3821927
+Geocoded Petaluma city, CA: 38.231852399999994, -122.64461337833774
+Geocoded Petaluma Center, CA (simplified): 38.2505758, -122.7961742
+Geocoded Peters, CA (simplified): 37.9807573, -121.0479965
+Geocoded Phelan, CA (simplified): 34.426298, -117.5725026
+Geocoded Phillipsville, CA (simplified): 40.2090317, -123.785866
+Geocoded Philo, CA (simplified): 39.0657324, -123.4450093
+Geocoded Phoenix Lake, CA (simplified): 37.95354465, -122.57422468358999
+Geocoded Pico Rivera city, CA: 33.9825131, -118.0886792
+Geocoded Piedmont city, CA: 37.82427525, -122.23274288561294
+Geocoded Pierpoint, CA (simplified): 43.160206099999996, -79.23027230738467
+Geocoded Pike, CA (simplified): 54.1113263, -58.348630645245535
+Geocoded Pine Canyon, CA (simplified): 36.1813552, -121.1496413
+Geocoded Pine Flat, CA (simplified): 35.8780059, -118.6514771
+Geocoded Pine Grove, CA (simplified): 39.3493389, -123.8141821
+Geocoded Pine Hills, CA (simplified): 40.7331835, -124.152281
+Geocoded Pine Mountain Club, CA (simplified): 34.8447503, -119.1577796992701
+Geocoded Pine Mountain Lake, CA (simplified): 37.849643900000004, -120.19512944825414
+Geocoded Pine Valley CDP, CA: 39.43935155, -76.64021070081753
+Geocoded Pinole city, CA: 38.004269449999995, -122.29074951915507
+Geocoded Piñon Hills, CA (simplified): 34.4418699, -117.6459421
+Geocoded Pioneer, CA (simplified): 38.4318551, -120.5718719
+Geocoded Piru, CA (simplified): 34.4156137, -118.7927456
+Geocoded Pismo Beach city, CA: 35.140006799999995, -120.633999064745
+Geocoded Pittsburg city, CA: 38.0079686, -121.8856677035685
+Geocoded Pixley, CA (simplified): 35.978775, -119.29479637596647
+Geocoded Placentia city, CA: 33.8714775, -117.8617364
+Geocoded Placerville city, CA: 38.72583135, -120.80188915320136
+Geocoded Plainview, CA (simplified): 36.1441184, -119.1339951
+Geocoded Planada, CA (simplified): 37.2907749, -120.3185161
+Geocoded Platina, CA (simplified): 40.3595937, -122.894741
+Geocoded Pleasant Hill city, CA: 37.94747925, -122.06349883949457
+Geocoded Pleasanton city, CA: 37.637384600000004, -121.92292659508131
+Geocoded Pleasure Point, CA (simplified): 36.96569, -121.9649818
+Geocoded Plumas Eureka, CA (simplified): 39.799876999999995, -120.66866778302708
+Geocoded Plumas Lake, CA (simplified): 39.0204021, -121.5512256
+Geocoded Plymouth city, CA: 38.481171, -120.8471645
+Geocoded Point Arena city, CA: 38.9165801, -123.7038481
+Geocoded Point Reyes Station, CA (simplified): 38.087933, -122.81438071794099
+Geocoded Pollock Pines, CA (simplified): 38.749703499999995, -120.57766098808176
+Geocoded Pomona city, CA: 34.054214650000006, -117.75133293439308
+Geocoded Ponderosa, CA (simplified): 36.1055013, -118.5281434
+Geocoded Poplar-Cotton Center, CA (simplified): 36.0551617, -119.15208340661644
+Geocoded Port Costa, CA (simplified): 38.044824500000004, -122.18442202495345
+Geocoded Porterville city, CA: 36.0337943, -119.072916116871
+Geocoded Port Hueneme city, CA: 34.1497404, -119.1948696548666
+Geocoded Portola city, CA: 39.8053861, -120.4647595495771
+Geocoded Portola Valley town, CA: 37.3736298, -122.219047
+Geocoded Posey, CA (simplified): 35.8046737, -118.6828662
+Geocoded Post Mountain, CA (simplified): 44.6370709, -65.8176048
+Geocoded Potomac Park, CA (simplified): 35.3641329, -118.95471961238512
+Geocoded Potrero, CA (simplified): 32.616354799999996, -116.60445236516394
+Geocoded Potter Valley, CA (simplified): 39.3221089, -123.113059
+Geocoded Poway city, CA: 32.95780045, -117.03543975246785
+Geocoded Prattville, CA (simplified): 40.208775, -121.1566291
+Geocoded Princeton, CA (simplified): 49.460459, -120.507973
+Geocoded Proberta, CA (simplified): 40.0812154, -122.170517
+Geocoded Prunedale, CA (simplified): 36.7851358, -121.666641
+Geocoded Pumpkin Center, CA (simplified): 35.2669058, -119.0334366
+Geocoded Quartz Hill, CA (simplified): 34.6452645, -118.2181308
+Geocoded Quincy, CA (simplified): 39.9309945, -120.95357394728885
+Geocoded Rackerby, CA (simplified): 39.4400085, -121.3378975
+Geocoded Rail Road Flat, CA (simplified): 38.3159475, -120.50582851199255
+Geocoded Rainbow, CA (simplified): 33.4024813, -117.14141700626058
+Geocoded Raisin City, CA (simplified): 36.6059595, -119.91015795138492
+Geocoded Ramona, CA (simplified): 33.0472806, -116.87760049463874
+Geocoded Rancho Calaveras, CA (simplified): 38.124368, -120.85681332776349
+Geocoded Rancho Cordova city, CA: 38.5894071, -121.28476027005422
+Geocoded Rancho Cucamonga city, CA: 34.102291300000005, -117.54795804853927
+Geocoded Rancho Mirage city, CA: 33.7711318, -116.4472352
+Geocoded Rancho Mission Viejo, CA (simplified): 33.5178793, -117.577775
+Geocoded Rancho Murieta, CA (simplified): 38.510062149999996, -121.06504706543953
+Geocoded Rancho Palos Verdes city, CA: 33.7453754, -118.40541957405654
+Geocoded Rancho San Diego, CA (simplified): 32.7610595, -116.92646990128205
+Geocoded Rancho Santa Fe, CA (simplified): 33.024231400000005, -117.19797812499999
+Geocoded Rancho Santa Margarita city, CA: 33.64169165, -117.5925283324419
+Geocoded Rancho Tehama Reserve, CA (simplified): 40.0027864, -122.4450792
+Geocoded Randsburg, CA (simplified): 35.3693666, -117.65987282747224
+Geocoded Red Bluff city, CA: 40.1768219, -122.2316634
+Geocoded Red Corral, CA (simplified): 33.7318801, -117.43226099695906
+Geocoded Redcrest, CA (simplified): 40.4004168, -123.9500421
+Geocoded Redding city, CA: 40.59222595, -122.40731554999999
+Geocoded Redlands city, CA: 34.0552917, -117.18235178096761
+Geocoded Redondo Beach city, CA: 33.8455706, -118.3886856
+Geocoded Redway, CA (simplified): 40.121790000000004, -123.82270559015384
+Geocoded Redwood City city, CA: 37.4863239, -122.232523
+Geocoded Redwood Valley, CA (simplified): 39.2654449, -123.204449
+Geocoded Reedley city, CA: 36.5982839, -119.4531808
+Geocoded Reliez Valley, CA (simplified): 37.93808, -122.0948534
+Geocoded Rexland Acres, CA (simplified): 35.3022081, -118.99696972501236
+Geocoded Rialto city, CA: 34.07869555, -117.36810710058387
+Geocoded Richfield, CA (simplified): 39.9748791, -122.176656
+Geocoded Richgrove, CA (simplified): 35.796805649999996, -119.10662164975389
+Geocoded Richmond city, CA: 49.1633552, -123.13737933822266
+Geocoded Richvale, CA (simplified): 43.8417308, -79.4436176
+Geocoded Ridgecrest city, CA: 35.6207939, -117.67154
+Geocoded Ridgecrest Heights, CA (simplified): 34.873507700000005, -81.9631221387096
+Geocoded Ridgemark, CA (simplified): 36.8080535, -121.35668163110698
+Geocoded Rio Dell, CA (simplified): 40.499301, -124.106437
+Geocoded Rio del Mar, CA (simplified): 36.9524465, -121.88103587507157
+Geocoded Rio Linda, CA (simplified): 38.6873975, -121.45938031564836
+Geocoded Rio Oso, CA (simplified): 38.961019, -121.5383231
+Geocoded Rio Vista city, CA: 39.17009607690683, -121.64644245771528
+Geocoded Ripley, CA (simplified): 33.5256428, -114.65190262365974
+Geocoded Ripon city, CA: 37.7427061, -121.1357719
+Geocoded Riverbank city, CA: 37.7363174, -120.9363229
+Geocoded Riverdale, CA (simplified): 43.6705594, -79.3508527
+Geocoded Riverdale Park, CA (simplified): 37.60504175, -121.04223321140117
+Geocoded Rivergrove, CA (simplified): 49.9565241, -97.0867176
+Geocoded River Pines, CA (simplified): 38.5462958, -120.7440998
+Geocoded Riverside city, CA: 52.1251085, -106.6779109
+Geocoded Robbins, CA (simplified): 38.8701766, -121.7063532
+Geocoded Robinson Mill, CA (simplified): 39.44940693930533, -121.34864553673775
+Geocoded Rocklin city, CA: 38.8093779, -121.21381736752176
+Geocoded Rodeo, CA (simplified): 38.028274350000004, -122.23731182159091
+Warning: No coordinates found for Rodriguez Camp CDP, CA or Rodriguez Camp, CA
+Geocoded Rohnert Park city, CA: 38.349161300000006, -122.70311727167339
+Geocoded Rolling Hills city, CA: 33.783513799999994, -118.35292095818988
+Geocoded Rolling Hills CDP, CA: 33.618532945086464, -112.26376788186487
+Geocoded Rolling Hills Estates city, CA: 33.783513799999994, -118.35292095818988
+Geocoded Rollingwood, CA (simplified): 37.9655215, -122.33077615432322
+Geocoded Romoland, CA (simplified): 33.743252850000005, -117.16266174164082
+Geocoded Rosamond, CA (simplified): 34.8641446, -118.1634075
+Geocoded Rosedale, CA (simplified): 43.67646405, -79.38853674148251
+Geocoded Rose Hills, CA (simplified): 34.00630955, -118.03517348465802
+Geocoded Rosemead city, CA: 34.0802674, -118.0763599
+Geocoded Rosemont CDP, CA: 30.589695610788123, -88.23443384107387
+Geocoded Roseville city, CA: 38.74833965, -121.28393826953817
+Geocoded Ross town, CA: 37.9624239, -122.554977
+Geocoded Rossmoor, CA (simplified): 33.7855722, -118.0850642
+Geocoded Rough and Ready, CA (simplified): 39.2295981, -121.138682
+Geocoded Round Mountain, CA (simplified): 49.7650612, -123.024059
+Geocoded Round Valley, CA (simplified): 37.40815945, -118.58407498725049
+Geocoded Rouse, CA (simplified): 66.1543522, -84.30226904974862
+Geocoded Rowland Heights, CA (simplified): 33.9734043, -117.8941304620352
+Geocoded Rumsey, CA (simplified): 51.85, -112.85
+Geocoded Running Springs, CA (simplified): 34.2124412, -117.12487761192112
+Geocoded Ruth CDP, CA: 30.551816029987975, -88.24102338870935
+Geocoded Rutherford CDP, CA: 32.447843713640836, -86.11960494583002
+Geocoded Sacramento city, CA: 38.5423995, -121.49006218751438
+Geocoded Sage, CA (simplified): 33.5816934, -116.9322462
+Geocoded St. Helena city, CA: 38.5062976, -122.4716468
+Geocoded Salida, CA (simplified): 37.7151375, -121.08667876282566
+Geocoded Salinas city, CA: 36.6831694, -121.67134511533963
+Geocoded Salmon Creek, CA (simplified): 45.40038616839765, -65.9938307120792
+Geocoded Salton City, CA (simplified): 33.296672799999996, -115.95855597694256
+Geocoded Salton Sea Beach, CA (simplified): 33.377036000000004, -116.01281307803947
+Geocoded Salyer, CA (simplified): 40.8901348, -123.5844933
+Geocoded Samoa, CA (simplified): 40.8187372, -124.1864518
+Geocoded San Andreas, CA (simplified): 38.187560500000004, -120.67538262555556
+Geocoded San Anselmo town, CA: 37.9744323, -122.561503
+Geocoded San Antonio Heights, CA (simplified): 34.1533474, -117.65952427704583
+Geocoded San Ardo, CA (simplified): 36.025425, -120.9080129570552
+Geocoded San Bernardino city, CA: 34.1133938, -117.29577959301369
+Geocoded San Bruno city, CA: 37.6247565, -122.4145151
+Geocoded San Buenaventura (Ventura), CA (simplified): 34.2783355, -119.293174
+Geocoded San Carlos city, CA: 7.960353, 125.0734715
+Geocoded San Clemente city, CA: 33.4268457, -117.62829755890016
+Geocoded Sand City city, CA: 53.46200350344358, 9.97954866728599
+Geocoded San Diego city, CA: 10.2299896, -67.9617968
+Geocoded San Diego Country Estates, CA (simplified): 33.0096644, -116.78483332088608
+Geocoded San Dimas city, CA: 34.1071674, -117.80360255198165
+Geocoded San Fernando city, CA: 37.330319, -121.8985623
+Geocoded San Francisco city, CA: 46.8443248, -71.2743272
+Geocoded San Gabriel city, CA: 34.08424935, -118.09994888687271
+Geocoded Sanger city, CA: 36.7099409, -119.55726115891233
+Geocoded San Geronimo, CA (simplified): 38.006614, -122.66124494462719
+Geocoded San Jacinto city, CA: 33.78047155, -116.967814825
+Geocoded San Joaquin city, CA: 10.256756, -67.8015459
+Geocoded San Jose city, CA: 37.3299203, -121.902496
+Geocoded San Juan Bautista city, CA: 36.8453647, -121.53686293094222
+Geocoded San Juan Capistrano city, CA: 33.4929291, -117.66492582104134
+Geocoded San Leandro city, CA: 37.7285406, -122.1591325
+Geocoded San Lorenzo, CA (simplified): 37.6810422, -122.1244088
+Geocoded San Lucas, CA (simplified): 36.127570500000004, -121.02108317961165
+Geocoded San Luis Obispo city, CA: 35.2820278, -120.6627522
+Geocoded San Marcos city, CA: 33.15148635, -117.12810231098636
+Geocoded San Marino city, CA: 43.9363996, 12.4466991
+Geocoded San Martin, CA (simplified): 37.089655, -121.59450459760274
+Geocoded San Mateo city, CA: 37.5474789, -122.31516816824328
+Geocoded San Miguel, CA (simplified): 35.754959, -120.69322707884933
+Geocoded San Miguel, CA (simplified): 35.754959, -120.69322707884933
+Geocoded San Pablo city, CA: 37.9560438, -122.33878278265668
+Geocoded San Pasqual, CA (simplified): 34.1391544, -118.1024418
+Geocoded San Rafael city, CA: 37.97482495, -122.53179303642219
+Geocoded San Ramon city, CA: 37.7713613, -121.9927449
+Geocoded San Simeon, CA (simplified): 35.6133158, -121.144234
+Geocoded Santa Ana city, CA: 33.7469619, -117.8675561
+Geocoded Santa Barbara city, CA: 34.40586425, -119.69742037178025
+Geocoded Santa Clara city, CA: 37.3363493, -121.8900141
+Geocoded Santa Clarita city, CA: 34.4128683, -118.49885333692
+Geocoded Santa Cruz city, CA: 33.247581, -117.30990600000001
+Geocoded Santa Fe Springs city, CA: 33.53710325, -112.09640709521665
+Geocoded Santa Margarita, CA (simplified): 35.3899734, -120.609057
+Geocoded Santa Maria city, CA: 33.245699, -117.31111150000001
+Geocoded Santa Monica city, CA: 34.02675615, -118.4673743716065
+Geocoded Santa Nella, CA (simplified): 38.497135, -122.9666644
+Geocoded Santa Paula city, CA: 34.3519437, -119.0592705
+Geocoded Santa Rosa city, CA: 49.26334675, -123.10250782601483
+Geocoded Santa Rosa Valley, CA (simplified): 18.3637308, 121.4416051
+Geocoded Santa Susana, CA (simplified): 34.2622252, -118.673701
+Geocoded Santa Venetia, CA (simplified): 38.0007724, -122.5229299
+Geocoded Santa Ynez, CA (simplified): 34.608637, -120.10467742149733
+Geocoded Santee city, CA: 32.8383828, -116.9739167
+Geocoded Saranap, CA (simplified): 37.8891054, -122.0765039
+Geocoded Saratoga city, CA: 37.2675, -122.0147222
+Geocoded Saticoy, CA (simplified): 34.2836433, -119.1490674
+Geocoded Sattley, CA (simplified): 39.6160137, -120.4271545
+Geocoded Sausalito city, CA: 37.8590272, -122.485469
+Geocoded Scotia, CA (simplified): 40.4844868, -124.1015877
+Geocoded Scotts Valley city, CA: 37.04072075, -122.0447704576768
+Geocoded Seacliff, CA (simplified): 37.7885406, -122.4869164
+Geocoded Seal Beach city, CA: 33.742338700000005, -118.10560451567602
+Geocoded Sea Ranch, CA (simplified): 38.7149778, -123.455009
+Geocoded Searles Valley, CA (simplified): 35.767454, -117.4039467
+Geocoded Seaside city, CA: 36.6034853, -121.8534113
+Geocoded Sebastopol city, CA: 38.4020141, -122.82524898659511
+Geocoded Seeley, CA (simplified): 32.787857200000005, -115.68139681447164
+Geocoded Selma city, CA: 36.5674505, -119.6104097
+Geocoded Sequoia Crest, CA (simplified): 33.15511765995774, -117.25567347882142
+Geocoded Sereno del Mar, CA (simplified): 36.965687464210376, -121.87154164594406
+Geocoded Seville, CA (simplified): 36.487378050000004, -119.21912551743318
+Geocoded Shafter city, CA: 35.501461, -119.273682
+Geocoded Shandon, CA (simplified): 35.6533809, -120.38176330925864
+Geocoded Shasta CDP, CA: 33.6243435425822, -112.27576940478579
+Geocoded Shasta Lake city, CA: 40.67327495, -122.36835314872796
+Geocoded Shaver Lake, CA (simplified): 37.09688, -119.32022462880988
+Geocoded Shell Ridge, CA (simplified): 37.9063533, -122.0348755
+Geocoded Shelter Cove, CA (simplified): 40.0304212, -124.0730866
+Geocoded Sheridan, CA (simplified): 38.9796179, -121.3755114
+Geocoded Shingle Springs, CA (simplified): 38.671386999999996, -120.94054470702578
+Geocoded Shingletown, CA (simplified): 40.4925459, -121.8890087
+Geocoded Shoshone, CA (simplified): 35.9486573, -116.31250235103428
+Geocoded Sierra Brooks, CA (simplified): 39.6424052, -120.2165932
+Geocoded Sierra City, CA (simplified): 39.5655468, -120.635999
+Geocoded Sierra Madre city, CA: 34.1615343, -118.05775108907773
+Geocoded Sierra Village, CA (simplified): 38.0718659, -120.1729657
+Geocoded Sierraville, CA (simplified): 39.5896256, -120.36743
+Geocoded Signal Hill city, CA: 47.5721305, -52.6803673
+Geocoded Silverado, CA (simplified): 50.8843663, -114.0780347
+Geocoded Silverado Resort, CA (simplified): 38.35138945, -122.26130258326361
+Geocoded Silver City, CA (simplified): 36.4660536, -118.6459278
+Geocoded Silver Lakes, CA (simplified): 57.493786549999996, -121.20467950562059
+Geocoded Simi Valley city, CA: 34.2881305, -118.71925676379257
+Geocoded Sisquoc, CA (simplified): 34.8647019, -120.291545
+Geocoded Sky Valley, CA (simplified): 33.895193899999995, -116.3458361827921
+Geocoded Sleepy Hollow, CA (simplified): 38.0103429, -122.5815703
+Geocoded Smartsville, CA (simplified): 39.2073932, -121.2985701
+Geocoded Smith Corner CDP, CA: 30.549097589223138, -88.22182510785967
+Geocoded Smith River, CA (simplified): 41.8393789, -124.1135629
+Geocoded Snelling, CA (simplified): 37.5191028, -120.4374151
+Geocoded Soda Bay, CA (simplified): 39.0010075, -122.7891577
+Geocoded Soda Springs, CA (simplified): 39.3234016, -120.379453
+Geocoded Solana Beach city, CA: 32.9835647, -117.2702311
+Geocoded Soledad city, CA: 36.428179799999995, -121.32466432032044
+Geocoded Solvang city, CA: 34.2105227, -118.40836515000001
+Geocoded Somis, CA (simplified): 34.2572261, -118.9962124
+Geocoded Sonoma city, CA: 38.292816900000005, -122.45772809652752
+Geocoded Sonoma State University, CA (simplified): 38.33982655, -122.6734191695437
+Geocoded Sonora city, CA: 37.9831426, -120.38966263136507
+Geocoded Soquel, CA (simplified): 36.992568000000006, -121.942859743031
+Geocoded Soulsbyville, CA (simplified): 37.994726, -120.26164025677765
+Geocoded South Dos Palos, CA (simplified): 36.9643919, -120.653239
+Geocoded South El Monte city, CA: 34.04460605, -118.04617720035534
+Geocoded South Gate city, CA: 37.76972225, -122.46979495263878
+Geocoded South Lake Tahoe city, CA: 38.892547, -119.998651
+Warning: No coordinates found for South Monrovia Island CDP, CA or South Monrovia Island, CA
+Geocoded South Oroville, CA (simplified): 39.480807, -121.53139693185338
+Geocoded South Pasadena city, CA: 34.116198, -118.15215812744783
+Geocoded South San Francisco city, CA: 37.6633725, -122.4181018
+Geocoded South San Gabriel, CA (simplified): 34.0497275, -118.0942289
+Geocoded South San Jose Hills, CA (simplified): 34.0148215, -117.91569982685415
+Geocoded South Taft, CA (simplified): 35.129684999999995, -119.45590227083093
+Geocoded South Whittier, CA (simplified): 33.9366769, -118.028805
+Geocoded Spaulding, CA (simplified): 33.66210241963309, -117.71574182526325
+Geocoded Spreckels, CA (simplified): 36.6219046, -121.6468895
+Geocoded Spring Garden, CA (simplified): 39.8990085, -120.78852014920119
+Geocoded Spring Valley, CA (simplified): 32.7295705, -116.96688951775884
+Geocoded Spring Valley, CA (simplified): 32.7295705, -116.96688951775884
+Geocoded Spring Valley Lake, CA (simplified): 34.4987474, -117.26608435319102
+Geocoded Springville, CA (simplified): 36.123081, -118.83973999924812
+Geocoded Squaw Valley, CA (simplified): 36.705929499999996, -119.200118437758
+Geocoded Squirrel Mountain Valley, CA (simplified): 35.621303, -118.40755340826331
+Geocoded Stallion Springs, CA (simplified): 35.0974359, -118.66241015311476
+Geocoded Stanford, CA (simplified): 37.426540700000004, -122.17030545534064
+Geocoded Stanton city, CA: 33.802161100000006, -117.99639501516191
+Geocoded Stebbins, CA (simplified): 35.4059782, -119.31415792523906
+Geocoded Stevenson Ranch, CA (simplified): 34.3881783, -118.5853957
+Geocoded Stevinson, CA (simplified): 37.3277436, -120.8516178
+Geocoded Stinson Beach, CA (simplified): 37.89990349999999, -122.64231265043185
+Geocoded Stirling City, CA (simplified): 39.9073833, -121.528105
+Geocoded Stockton city, CA: 37.95641465, -121.29150944201645
+Geocoded Stones Landing, CA (simplified): 40.7123554, -120.7246841
+Geocoded Stonyford, CA (simplified): 39.3748343, -122.5453889
+Geocoded Stratford CDP, CA: 30.559382877778837, -88.24057489023872
+Geocoded Strathmore, CA (simplified): 51.0435486, -113.3998479
+Geocoded Strawberry, CA (simplified): 37.8965001, -122.50658847025592
+Geocoded Strawberry, CA (simplified): 37.8965001, -122.50658847025592
+Geocoded Sugarloaf Saw Mill, CA (simplified): 34.2516122, -116.8372562
+Geocoded Sugarloaf Village, CA (simplified): 35.825834, -118.6354699
+Geocoded Suisun City city, CA: 38.2382474, -122.040244
+Geocoded Sultana, CA (simplified): 36.54347435, -119.33551310783199
+Geocoded Summerland, CA (simplified): 49.6, -119.666667
+Geocoded Sunnyside CDP, CA: 30.58466603962241, -88.1804008622532
+Geocoded Sunnyside-Tahoe City, CA (simplified): 39.1629835, -120.1444964
+Geocoded Sunny Slopes, CA (simplified): 37.5669465, -118.6806035
+Geocoded Sunnyvale city, CA: 37.371524949999994, -122.03735762056596
+Geocoded Sunol, CA (simplified): 37.58334455, -121.89333722934248
+Geocoded Sun Village, CA (simplified): 34.56484345, -117.95016978591511
+Geocoded Susanville city, CA: 40.4193871, -120.6617236
+Geocoded Sutter, CA (simplified): 38.9509675, -121.697088
+Geocoded Sutter Creek city, CA: 38.41026942276086, -120.81512165189469
+Geocoded Swall Meadows, CA (simplified): 37.5117343, -118.6405635
+Geocoded Taft city, CA: 35.133264600000004, -119.47010713329095
+Geocoded Taft Heights, CA (simplified): 35.133264600000004, -119.47010713329095
+Geocoded Taft Mosswood, CA (simplified): 37.9144405, -121.28189219928086
+Geocoded Tahoe Vista, CA (simplified): 39.24890265, -120.05212885499307
+Geocoded Tahoma, CA (simplified): 39.0674228, -120.1285242
+Geocoded Talmage, CA (simplified): 39.1332266, -123.167782
+Geocoded Tamalpais-Homestead Valley, CA (simplified): 37.879918, -122.53310600850901
+Geocoded Tancred, CA (simplified): 38.7651802, -122.1635853
+Geocoded Tara Hills, CA (simplified): 37.993763, -122.31870080201342
+Geocoded Tarina, CA (simplified): 35.38702693565397, -118.81768158477205
+Geocoded Tarpey Village, CA (simplified): 36.7930055, -119.7009743
+Geocoded Taylorsville, CA (simplified): 40.06313205, -120.83982973479101
+Geocoded Tecopa, CA (simplified): 35.8465791, -116.2160568137606
+Geocoded Tehachapi city, CA: 35.1384613, -118.46345098183663
+Geocoded Tehama city, CA: 34.12562549260536, -118.19672577330678
+Geocoded Temecula city, CA: 34.04509437963532, -118.53563622849592
+Geocoded Temelec, CA (simplified): 38.2579225, -122.49843505664546
+Geocoded Temescal Valley, CA (simplified): 33.762796, -117.485323
+Geocoded Temple City city, CA: 30.1303533, 120.0844542
+Geocoded Templeton, CA (simplified): 49.1966743, -123.1464661
+Geocoded Tennant, CA (simplified): 41.5837652, -121.9133367
+Geocoded Terminous, CA (simplified): 38.1132523, -121.4955075
+Geocoded Terra Bella, CA (simplified): 35.9606215, -119.03584691569282
+Geocoded Teviston, CA (simplified): 35.9337885, -119.28193
+Geocoded Thermal, CA (simplified): 33.6275782, -116.1250452648927
+Geocoded Thermalito, CA (simplified): 39.4907195, -121.64810832249292
+Geocoded Thornton CDP, CA: 39.43195227506592, -76.64327154076152
+Geocoded Thousand Oaks city, CA: 34.2053363, -118.93433111131972
+Geocoded Thousand Palms, CA (simplified): 33.807735949999994, -116.35081399017608
+Geocoded Three Rivers, CA (simplified): 36.4204965, -118.88033896697641
+Geocoded Three Rocks, CA (simplified): 36.3133318, -118.33448
+Geocoded Tiburon town, CA: 37.8775332, -122.460808
+Geocoded Timber Cove, CA (simplified): 38.5296352, -123.2711192
+Geocoded Tipton, CA (simplified): 36.0601362, -119.3103517
+Geocoded Tobin, CA (simplified): 39.937313, -121.2985263292683
+Geocoded Tomales, CA (simplified): 38.2468075, -122.90630461024097
+Geocoded Tonyville, CA (simplified): 36.2485614, -119.0906602
+Geocoded Tooleville, CA (simplified): 36.2874502, -119.1176062
+Geocoded Topanga, CA (simplified): 34.0675866, -118.59567202962805
+Geocoded Topaz CDP, CA: 33.60976683594907, -112.29539985383536
+Geocoded Toro Canyon, CA (simplified): 34.4199952, -119.5670709
+Geocoded Torrance city, CA: 33.8364565, -118.31639109796451
+Geocoded Trabuco Canyon, CA (simplified): 33.6626232, -117.58938
+Geocoded Tracy city, CA: 37.738645649999995, -121.41967239583053
+Geocoded Tranquillity, CA (simplified): 36.648839, -120.2526596
+Geocoded Traver, CA (simplified): 36.4552287, -119.4848471
+Geocoded Tres Pinos, CA (simplified): 36.7899573, -121.321043
+Geocoded Trinidad city, CA: 41.06285255, -124.14251247078859
+Geocoded Trinity Center, CA (simplified): 40.9832011, -122.6997441
+Geocoded Trinity Village, CA (simplified): 40.8754135, -123.5283794
+Geocoded Trona, CA (simplified): 35.7590315, -117.376665
+Geocoded Trowbridge, CA (simplified): 38.9107301, -121.525237
+Geocoded Truckee town, CA: 39.3168234, -120.1462451
+Geocoded Tulare city, CA: 36.206914, -119.34271976671145
+Geocoded Tulelake city, CA: 41.9487506, -121.46913562726385
+Geocoded Tuolumne City, CA (simplified): 37.9615102, -120.235873
+Geocoded Tupman, CA (simplified): 35.29918755, -119.35840444148141
+Geocoded Turlock city, CA: 37.49227185, -120.84718053096252
+Geocoded Tustin city, CA: 33.7432966, -117.819484
+Geocoded Tuttle, CA (simplified): 52.2071173, -113.844193
+Geocoded Tuttletown, CA (simplified): 37.9915909, -120.4596408
+Geocoded Twain, CA (simplified): 40.0365055, -121.03305858570161
+Geocoded Twain Harte, CA (simplified): 38.0337345, -120.2384940780943
+Geocoded Twentynine Palms city, CA: 34.1421991, -116.0546719
+Geocoded Twin Lakes, CA (simplified): 36.9676791, -121.998045
+Geocoded Twin Lakes, CA (simplified): 36.9676791, -121.998045
+Geocoded Ukiah city, CA: 39.149850349999994, -123.21009034430784
+Geocoded Union City city, CA: 37.5906286, -122.0173972
+Geocoded University of California-Davis, CA (simplified): 38.533790350000004, -121.79075439946112
+Geocoded University of California-Merced, CA (simplified): 37.365182, -120.42252751958962
+Geocoded University of California-Santa Barbara, CA (simplified): 34.414602450000004, -119.84581004701371
+Geocoded Upland city, CA: 34.099336699999995, -117.65037138842862
+Geocoded Upper Lake, CA (simplified): 39.1480125, -122.90316868397876
+Geocoded Vacaville city, CA: 38.3512866, -121.99444523554615
+Geocoded Valinda, CA (simplified): 34.0384785, -117.93355898556877
+Geocoded Vallecito, CA (simplified): 38.0704785, -120.44567161383476
+Geocoded Vallejo city, CA: 38.1018282, -122.24993820912142
+Geocoded Valle Vista, CA (simplified): 33.754125, -116.89269042493814
+Geocoded Valley Acres, CA (simplified): 35.2081695, -119.40931310295531
+Geocoded Valley Center, CA (simplified): 33.2272406, -117.02918926682472
+Geocoded Valley Ford, CA (simplified): 38.3174723, -122.9248904
+Geocoded Valley Home, CA (simplified): 37.8288158, -120.9121571
+Geocoded Valley Ranch, CA (simplified): 39.7491385, -120.55783174087125
+Geocoded Valley Springs, CA (simplified): 38.1847255, -120.80710393275619
+Geocoded Valley Wells, CA (simplified): 35.8452437, -117.3365822
+Geocoded Val Verde, CA (simplified): 34.4522986, -118.66686718650686
+Geocoded Vandenberg AFB, CA (simplified): 34.7519092, -120.534267
+Geocoded Vandenberg Village, CA (simplified): 34.7116502, -120.46068349101884
+Geocoded Verdi, CA (simplified): 37.7691659, -122.468342
+Geocoded Vernon city, CA: 50.24921435, -119.28589143892859
+Geocoded Victor, CA (simplified): 38.1379746, -121.206057
+Geocoded Victorville city, CA: 34.51130155, -117.32271703329296
+Geocoded View Park-Windsor Hills, CA (simplified): 33.995468349999996, -118.35100811413182
+Geocoded Villa Park city, CA: 39.730961, -105.03921498341934
+Geocoded Vina, CA (simplified): 39.9329488, -122.053874
+Geocoded Vincent, CA (simplified): 34.099446900000004, -117.9195444136858
+Geocoded Vine Hill, CA (simplified): 38.0117331, -122.08581765725047
+Geocoded Vineyard, CA (simplified): 38.4671207, -121.33475396978551
+Geocoded Virginia Lakes, CA (simplified): 38.0543261, -119.2501974
+Geocoded Visalia city, CA: 36.328894000000005, -119.29921529258408
+Geocoded Vista city, CA: 37.317741, -121.91936129069929
+Geocoded Vista Santa Rosa, CA (simplified): 33.6265938, -116.2072900143068
+Geocoded Volcano, CA (simplified): 38.4427907, -120.6309635
+Geocoded Volta CDP, CA: 30.600908827463037, -88.17747582060973
+Geocoded Walker, CA (simplified): 38.5162488, -119.4787921
+Geocoded Wallace, CA (simplified): 38.196219, -120.95905148135108
+Geocoded Walnut city, CA: 40.8123428, -92.9449561
+Geocoded Walnut Creek city, CA: 37.9015287, -122.06122927889373
+Geocoded Walnut Grove, CA (simplified): 38.250307500000005, -121.50477362611842
+Geocoded Walnut Park, CA (simplified): 33.96689165, -118.22086086176162
+Geocoded Warm Springs, CA (simplified): 34.1202891, -117.246986
+Geocoded Warner Valley, CA (simplified): 40.368704, -121.3119418
+Geocoded Wasco city, CA: 35.5930314, -119.3334142
+Geocoded Washington, CA (simplified): 34.0200544, -118.2430755
+Geocoded Waterford city, CA: 37.6459564, -120.7583146063063
+Geocoded Waterloo, CA (simplified): 43.4652699, -80.5222961
+Geocoded Watsonville city, CA: 36.9136616, -121.7706159
+Geocoded Waukena, CA (simplified): 36.1385621, -119.509567
+Warning: No coordinates found for Wautec CDP, CA or Wautec, CA
+Geocoded Wawona, CA (simplified): 37.5368699, -119.654916
+Geocoded Weaverville, CA (simplified): 40.756494, -122.9366462745098
+Geocoded Weed city, CA: 41.4122158, -122.37819802088939
+Geocoded Weedpatch, CA (simplified): 35.2380173, -118.9151002
+Geocoded Weitchpec, CA (simplified): 41.1881821, -123.7083942
+Geocoded Weldon, CA (simplified): 53.0091312, -105.1480097
+Geocoded Weott, CA (simplified): 40.3214878, -123.9226034
+Geocoded West Athens, CA (simplified): 33.924006, -118.3002792
+Geocoded West Bishop, CA (simplified): 37.3612756, -118.4364728
+Geocoded West Carson, CA (simplified): 33.8243814, -118.2929111
+Geocoded West Covina city, CA: 34.071330849999995, -117.9388349638889
+Geocoded West Goshen, CA (simplified): 36.340385110330466, -119.34095752311109
+Geocoded Westhaven-Moonstone, CA (simplified): 41.045159, -124.10316894349904
+Geocoded West Hollywood city, CA: 34.09047735, -118.3706842666306
+Geocoded Westlake Village city, CA: 43.7547954289306, -79.19473875177907
+Geocoded Westley, CA (simplified): 37.550490499999995, -121.21012886719252
+Geocoded West Menlo Park, CA (simplified): 37.43167975, -122.20228868493487
+Geocoded Westminster city, CA: 49.2067726, -122.9108818
+Geocoded West Modesto, CA (simplified): 37.618496750000006, -121.04353572647597
+Geocoded Westmont, CA (simplified): 33.9414035, -118.3022963
+Geocoded Westmorland city, CA: 33.036892949999995, -115.61798595237342
+Geocoded West Park, CA (simplified): 52.2575036, -113.833915
+Geocoded West Point, CA (simplified): 38.4061555, -120.53791709612523
+Geocoded West Puente Valley, CA (simplified): 34.049858, -117.96462933942225
+Geocoded West Rancho Dominguez, CA (simplified): 33.8939048, -118.2706282
+Geocoded West Sacramento city, CA: 38.5818039, -121.52365936220913
+Geocoded Westside, CA (simplified): 36.4005066, -120.1390355
+Geocoded West Whittier-Los Nietos, CA (simplified): 33.96797524894336, -118.07109364085468
+Geocoded Westwood, CA (simplified): 34.0668947, -118.439944
+Geocoded Wheatland city, CA: 39.0135307, -121.4269176
+Geocoded Whitehawk, CA (simplified): 39.7241735, -120.55248864737568
+Geocoded Whitewater, CA (simplified): 33.9394019, -116.68788331776783
+Geocoded Whitley Gardens, CA (simplified): 35.6591366, -120.5076614
+Geocoded Whitmore, CA (simplified): 52.7157152, -101.1197729
+Geocoded Whittier city, CA: 33.9749185, -118.03376265091143
+Geocoded Wildomar city, CA: 33.5941282, -117.24127139929985
+Geocoded Wilkerson, CA (simplified): 37.2747095, -118.3824586119593
+Geocoded Williams city, CA: 37.7292511, -122.3926636
+Geocoded Williams Canyon, CA (simplified): 34.30711894241803, -119.17079990053965
+Geocoded Willits city, CA: 39.41285135, -123.35283160158573
+Geocoded Willowbrook, CA (simplified): 33.9204209, -118.2418543
+Geocoded Willow Creek, CA (simplified): 49.9358323, -113.770897
+Geocoded Willows city, CA: 39.5218834, -122.200142
+Geocoded Wilsonia, CA (simplified): 36.7357031, -118.9579444
+Geocoded Wilton, CA (simplified): 38.4203098, -121.20636694174857
+Geocoded Winchester CDP, CA: 33.62723326982743, -112.30027319480367
+Geocoded Windsor town, CA: 38.54890475, -122.81490139259458
+Geocoded Winter Gardens, CA (simplified): 32.8390344, -116.92834351193564
+Geocoded Winterhaven, CA (simplified): 32.7368991, -114.6395420087918
+Geocoded Winters city, CA: 38.521851, -121.9708017
+Geocoded Winton, CA (simplified): 37.3823369, -120.61853757718696
+Geocoded Wofford Heights, CA (simplified): 35.7105072, -118.47371650616884
+Geocoded Woodacre, CA (simplified): 38.004312, -122.6369379863382
+Geocoded Woodbridge, CA (simplified): 43.7848982, -79.5923855
+Geocoded Woodcrest, CA (simplified): 33.8802, -117.3754116103743
+Geocoded Woodlake city, CA: 36.41501585, -119.09674347710514
+Geocoded Woodland city, CA: 32.5876351, -85.4638374
+Geocoded Woodlands, CA (simplified): 54.3558467, -115.2252675
+Geocoded Woodside town, CA: 37.4278945, -122.2509071
+Geocoded Woodville, CA (simplified): 36.0903815, -119.20273282405495
+Geocoded Woodville Farm Labor Camp, CA (simplified): 36.082656400000005, -119.14741176561856
+Geocoded Woody, CA (simplified): 35.7041199, -118.834259
+Geocoded Wrightwood, CA (simplified): 34.3608023, -117.6340458
+Geocoded Yankee Hill, CA (simplified): 39.7034956, -121.5221924
+Geocoded Yermo, CA (simplified): 34.90666195, -116.82308503362364
+Geocoded Yettem, CA (simplified): 36.4858435, -119.2534016
+Geocoded Yolo, CA (simplified): 38.7184542, -121.9059001
+Geocoded Yorba Linda city, CA: 33.8901235, -117.82560131676078
+Geocoded Yosemite Lakes, CA (simplified): 37.192897200000004, -119.77586609699999
+Geocoded Yosemite Valley, CA (simplified): 37.732723550973894, -119.60570416526419
+Geocoded Yosemite West, CA (simplified): 37.6474304, -119.7185006
+Geocoded Yountville, CA (simplified): 38.4022008, -122.359506
+Geocoded Yreka city, CA: 41.7271391, -122.6395334
+Geocoded Yuba City city, CA: 39.1404477, -121.6169108
+Geocoded Yucaipa city, CA: 34.033625, -117.0430865
+Geocoded Yucca Valley town, CA: 34.12384025, -116.41814032945675
+Geocoded Zayante, CA (simplified): 37.0918919, -122.0435734
