@@ -21,8 +21,7 @@ Here are some key visualizations of broadband data:
 ![Average Broadband by Type](png/4_avg_broadband_by_type.png)
 
 ### Interactive Map
-To see this map, download the [combined_coverage](html/combined_coverage_map.html) file to your browser and drag it into your search bar.
-
+To see this map, click [here](https://colemancochran.github.io/California-Broadband-Visuals-Stats/html/combined_coverage_map.html)
 - Interactive map visualization with:
   - Color-coded locations based on coverage quality
   - Separate maps for 4G and 5G coverage
