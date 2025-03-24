@@ -20,8 +20,8 @@ Here are some key visualizations of broadband data:
 ![Broadband Percent Instances](png/3_broadband_percent_instances.png)
 ![Average Broadband by Type](png/4_avg_broadband_by_type.png)
 
-## Map Visual
-Click [here](https://colemancochran.github.io/California-Broadband-Visuals-Stats/html/combined_coverage_map.html) to view the Combined Coverage Map in your browser.
+### Interactive Map
+Explore the full dataset with the [Combined Coverage Map](https://colemancochran.github.io/California-Broadband-Visuals-Stats/html/combined_coverage_map.html).
 - Interactive map visualization with:
   - Color-coded locations based on coverage quality
   - Separate maps for 4G and 5G coverage
