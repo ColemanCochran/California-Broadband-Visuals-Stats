@@ -34,7 +34,9 @@ Here are some key visualizations of broadband data - see video for explanations/
 - Use as proof-of-concept for more comprehensive analysis with FCC or SpaceX's proprietary data
 
 ## How to Improve / Future Development
-- Enhance with higher quality data (FCC website underwent maintenance during project)
+- Enhance with higher quality data (IE FCC datasets)
+- Consider data collected for [BEAD Initiative](https://broadbandusa.ntia.doc.gov/funding-programs/broadband-equity-access-and-deployment-bead-program)
+  - Starlink is currently [competing](https://www.ft.com/content/ae99e775-cc64-4831-9ace-6853d0f457ed) for BEAD contracts 
 - Expand analysis to additional regions
 - Incorporate service quality metrics beyond simple coverage percentages
 - Find data to explore starlink distribution and barriers to entry
