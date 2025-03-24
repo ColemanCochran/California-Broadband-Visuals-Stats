@@ -11,12 +11,13 @@ The Data Source
 - Places are categorized (rural, urban, etc.) in the source data
 
 ## Interactive Map
-To see this map, click [here](https://colemancochran.github.io/California-Broadband-Visuals-Stats/html/combined_coverage_map.html)
-- Interactive map visualization with:
-  - Color-coded locations based on coverage quality
-  - Separate maps for 4G and 5G coverage
-  - Yellow dots indicating adequate coverage
-  - Orange/red dots indicating poor coverage
+To see the map click [here](https://colemancochran.github.io/California-Broadband-Visuals-Stats/html/combined_coverage_map.html)
+
+Interactive map visualization with:
+- Color-coded locations based on coverage quality
+- Separate maps for 4G and 5G coverage
+- Yellow dots indicating adequate coverage
+- Orange/red dots indicating poor coverage
 
 ## Broadband Visuals
 
