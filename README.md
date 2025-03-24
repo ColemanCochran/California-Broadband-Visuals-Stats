@@ -17,6 +17,10 @@ This project analyzes broadband coverage across California to identify potential
   - Yellow dots indicating adequate coverage
   - Orange/red dots indicating poor coverage
 
+## How to View Findings
+- Graphs: All have been saved to png folder
+- Map: Download html file in the html folder --> open in browser
+
 ## Potential Applications
 - Target Starlink marketing and sales efforts to identified areas with poor coverage
 - Focus on both clustered regions of poor service and individual high-value locations
