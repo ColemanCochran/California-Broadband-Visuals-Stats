@@ -6,7 +6,7 @@ from matplotlib import colormaps
 from matplotlib.colors import to_hex
 
 # Load the CSV data
-df = pd.read_csv('/files/SpaceX_Project/data/California_Broadband_Summary.csv')
+df = pd.read_csv('../California-Broadband-Visuals-Stats/data/California_Broadband_Summary.csv')
 
 # Define coverage columns
 coverage_cols_4g = ['mobilebb_4g_area_st_pct']
@@ -17,7 +17,7 @@ df['min_5g_coverage'] = df[coverage_cols_5g].min(axis=1, skipna=True)
 
 # Parse geocode.txt into a DataFrame
 geocode_data = []
-with open('/files/SpaceX_Project/data/geocode.txt', 'r') as file:
+with open('../California-Broadband-Visuals-Stats/data/geocode.txt', 'r') as file:
     for line in file:
         match = re.match(r"Geocoded (.+?): (-?\d+\.\d+), (-?\d+\.\d+)", line.strip())
         if match:
@@ -195,7 +195,7 @@ html_content = Template(f"""
 """)
 
 # Save the final combined map
-with open("/files/SpaceX_Project/html/combined_coverage_map.html", "w") as file:
+with open("../California-Broadband-Visuals-Stats/html/combined_coverage_map.html", "w") as file:
     file.write(html_content.render())
 
 print("Combined map with coverage lists saved as 'combined_coverage_map.html'.")

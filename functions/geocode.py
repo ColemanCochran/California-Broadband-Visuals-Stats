@@ -77,8 +77,8 @@ def geocode_csv(input_csv_path, output_txt_path):
 
 if __name__ == "__main__":
     # Define file paths
-    input_file = "/files/spacex_project/data/California_Broadband_Summary.csv"
-    output_file = "/files/spacex_project/data/full_geocode.txt"
+    input_file = "../California-Broadband-Visuals-Stats/data/California_Broadband_Summary.csv"
+    output_file = "../California-Broadband-Visuals-Stats/data/full_geocode.txt"
     
     # Run the geocoding function for all entries
     geocode_csv(input_file, output_file)
