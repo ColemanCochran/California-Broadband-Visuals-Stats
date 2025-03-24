@@ -22,14 +22,15 @@ This project analyzes broadband coverage across California to identify potential
 - Focus on both clustered regions of poor service and individual high-value locations
 - Use as proof-of-concept for more comprehensive analysis with SpaceX's proprietary data
 
-## Future Development
-- Enhance with higher quality data 
+## How to Improve / Future Development
+- Enhance with higher quality data (FCC website underwent maintenance during project)
 - Expand analysis to additional regions
 - Incorporate service quality metrics beyond simple coverage percentages
+- Find data to explore starlink distribution and barriers to entry
 
 ## Setup
 - (Recommended) Create your own virual environment
 - Download requirements.txt
 
 ## Contact
-For questions about the methodology, code, or findings, please reach out directly.
+For questions about the methodology, code, or findings, please reach out at colemanrcochran@gmail.com
