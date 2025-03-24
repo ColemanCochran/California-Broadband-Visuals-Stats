@@ -11,15 +11,6 @@ https://www.loom.com/share/7a36e8f80ad2499d8497cac754632f23?sid=29131520-62e3-4e
 - Dataset includes coverage percentages for 5G, 4G, 3G, and subcategories
 - Places are categorized (rural, urban, etc.) in the source data
 
-## Visualizations
-- Bar charts showing average coverage percentages across different town categories
-- Distribution chart of places by coverage percentage ranges
-- Interactive map visualization with:
-  - Color-coded locations based on coverage quality
-  - Separate maps for 4G and 5G coverage
-  - Yellow dots indicating adequate coverage
-  - Orange/red dots indicating poor coverage
-
 ## Broadband Visuals
 
 Here are some key visualizations of broadband data:
@@ -29,9 +20,14 @@ Here are some key visualizations of broadband data:
 ![Broadband Percent Instances](png/3_broadband_percent_instances.png)
 ![Average Broadband by Type](png/4_avg_broadband_by_type.png)
 
-## How to View Findings
-- Graphs: All have been saved to png folder
-- Map: Download html file in the html folder --> open in browser
+## Map Visual
+Click [here](https://colemancochran.github.io/California-Broadband-Visuals-Stats/html/combined_coverage_map.html) to view the Combined Coverage Map in your browser.
+- Interactive map visualization with:
+  - Color-coded locations based on coverage quality
+  - Separate maps for 4G and 5G coverage
+  - Yellow dots indicating adequate coverage
+  - Orange/red dots indicating poor coverage
+
 
 ## Potential Applications
 - Target Starlink marketing and sales efforts to identified areas with poor coverage
