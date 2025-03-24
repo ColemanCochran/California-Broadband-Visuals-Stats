@@ -38,6 +38,7 @@ https://www.loom.com/share/7a36e8f80ad2499d8497cac754632f23?sid=29131520-62e3-4e
 ## Setup
 - (Recommended) Create your own virual environment
 - Download requirements.txt
+- Test
 
 ## Contact
 For questions about the methodology, code, or findings, please reach out at colemanrcochran@gmail.com
