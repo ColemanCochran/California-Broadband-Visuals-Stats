@@ -19,9 +19,9 @@ Interactive map visualization with:
 - Yellow dots indicating adequate coverage
 - Orange/red dots indicating poor coverage
 
-## Broadband Visuals
+## Understanding Broadband through Graphs
 
-Here are some key visualizations of broadband data:
+Here are some key visualizations of broadband data - see video for explanations/insight:
 
 ![Coverage by Area](png/1_coverage_by_area.png)
 ![Rural Coverage](png/2_rural_coverage.png)
