@@ -20,6 +20,15 @@ https://www.loom.com/share/7a36e8f80ad2499d8497cac754632f23?sid=29131520-62e3-4e
   - Yellow dots indicating adequate coverage
   - Orange/red dots indicating poor coverage
 
+## Broadband Visuals
+
+Here are some key visualizations of broadband data:
+
+![Coverage by Area](png/1_coverage_by_area.png)
+![Rural Coverage](png/2_rural_coverage.png)
+![Broadband Percent Instances](png/3_broadband_percent_instances.png)
+![Average Broadband by Type](png/4_avg_broadband_by_type.png)
+
 ## How to View Findings
 - Graphs: All have been saved to png folder
 - Map: Download html file in the html folder --> open in browser
