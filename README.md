@@ -1,12 +1,12 @@
 # California Broadband Coverage Analysis
 
-Please watch this [video](https://www.loom.com/share/7a36e8f80ad2499d8497cac754632f23?sid=29131520-62e3-4e56-8b5c-e172d6c136bf) where I explain the project and its findings below!
-
 > ### ⚠️ Disclaimer
 > 
 > **The data being considered is mobile broadband coverage** - not fixed broadband coverage. This is relevant as Starlink competes with fixed broadband services.
 > 
 > **Data on fixed broadband is limited** but the findings of this project can be supplementative to Starlink research and demonstrate a methodology for growth/market research.
+
+Please watch this [video](https://www.loom.com/share/7a36e8f80ad2499d8497cac754632f23?sid=29131520-62e3-4e56-8b5c-e172d6c136bf) where I explain the project and its findings below!
 
 ## Project Overview
 This project analyzes broadband coverage across 5,000 places in California to identify potential market opportunities for Starlink where broadband service is lacking. Upon analyzing this data, I created several visualizations and a map to display findings.
